@@ -1,46 +1,48 @@
-SimCard Services App
+# SimCard Services App
 
 SimCard Services App is an Android application that provides a comprehensive interface for managing and accessing various services offered by sim card providers. With this app, users can easily view and utilize services such as internet packages, SMS, calls, international calling, money transfers, balance checks, and more.
-Features
 
-    Internet Packages: Browse and select from a wide range of available internet packages provided by different sim card operators.
+## Features
 
-    SMS: Send and receive SMS messages conveniently within the app, ensuring seamless communication.
+- **Internet Packages:** Browse and select from a wide range of available internet packages provided by different sim card operators.
+- **SMS:** Send and receive SMS messages conveniently within the app, ensuring seamless communication.
+- **Calls:** Make calls using the app, providing a hassle-free alternative to the standard dialer.
+- **International Calling:** Enable international calling services and enjoy competitive rates for international calls.
+- **Money Transfer:** Transfer money securely and instantly to other users or bank accounts using integrated payment gateways.
+- **Balance Check:** Easily check the balance of your sim card, ensuring you stay updated on your account status.
+- **Top-Up:** Add money to your sim card balance using various payment options available through the app.
+- **Service Reminders:** Get reminders for package renewals, bill payments, and other important service-related events.
 
-    Calls: Make calls using the app, providing a hassle-free alternative to the standard dialer.
+## Screenshots
 
-    International Calling: Enable international calling services and enjoy competitive rates for international calls.
+![Screenshot 1](screenshot1.png)
+![Screenshot 2](screenshot2.png)
+![Screenshot 3](screenshot3.png)
 
-    Money Transfer: Transfer money securely and instantly to other users or bank accounts using integrated payment gateways.
+## Installation
 
-    Balance Check: Easily check the balance of your sim card, ensuring you stay updated on your account status.
+1. Clone the repository: `git clone https://github.com/your-username/your-repository.git`
+2. Open the project in Android Studio.
+3. Build and run the app on an Android device or emulator.
 
-    Top-Up: Add money to your sim card balance using various payment options available through the app.
+## Dependencies
 
-    Service Reminders: Get reminders for package renewals, bill payments, and other important service-related events.
+The SimCard Services App relies on the following dependencies:
 
-Screenshots
+- AndroidX Libraries
+- Retrofit
+- Gson
+- Picasso
+- Payment Gateway SDK (e.g., PayPal, Stripe, etc.)
 
-Screenshot 1
-Screenshot 2
-Screenshot 3
-Installation
+Please ensure that these dependencies are properly configured in your project's `build.gradle` file to ensure smooth integration and functionality.
 
-    Clone the repository: git clone https://github.com/your-username/your-repository.git
-    Open the project in Android Studio.
-    Build and run the app on an Android device or emulator.
+## Contributions
 
-Dependencies
+Contributions to the SimCard Services App are welcome! If you encounter any issues or have suggestions for improvements, please feel free to submit a pull request. Your contributions will help enhance the app's features and overall user experience.
 
-    AndroidX Libraries
-    Retrofit
-    Gson
-    Picasso
-    Payment Gateway SDK (e.g., PayPal, Stripe, etc.)
+## License
 
-Contributions
+This project is licensed under the Apache License. By contributing to this project, you agree to comply with the terms and conditions outlined in the license.
 
-Contributions to SimCard Services App are welcome! If you find any issues or have suggestions for improvements, please feel free to submit a pull request.
-License
-
-This project is licensed under the MIT License.
+We appreciate your interest and support in the SimCard Services App. Together, we can create a robust and user-friendly platform for managing sim card services efficiently.
