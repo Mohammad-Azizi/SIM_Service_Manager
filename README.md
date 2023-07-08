@@ -8,7 +8,7 @@ SimCard Services App is an Android application that provides a comprehensive int
 - **SMS:** Send and receive SMS messages conveniently within the app, ensuring seamless communication.
 - **Calls:** Make calls using the app, providing a hassle-free alternative to the standard dialer.
 - **International Calling:** Enable international calling services and enjoy competitive rates for international calls.
-- **Money Transfer:** Transfer money securely and instantly to other users or bank accounts using integrated payment gateways.
+-  gateways.
 - **Balance Check:** Easily check the balance of your sim card, ensuring you stay updated on your account status.
 - **Top-Up:** Add money to your sim card balance using various payment options available through the app.
 - **Service Reminders:** Get reminders for package renewals, bill payments, and other important service-related events.
