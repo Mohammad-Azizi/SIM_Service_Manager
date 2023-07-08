@@ -32,10 +32,21 @@ SimCard Services App is an Android application that provides a comprehensive int
 The SimCard Services App relies on the following dependencies:
 
 - AndroidX Libraries
-- Retrofit
-- Gson
-- Picasso
-
+  -  androidx.appcompat:appcompat
+  -  com.google.android.material:material
+  -  com.google.firebase:firebase-database
+  -  com.google.firebase:firebase-storage
+  -  com.google.android.gms:play-services-ads
+  -  com.github.bumptech.glide:glide
+  -  com.google.code.gson:gson
+  -  com.airbnb.android:lottie
+  -  com.squareup.okhttp3:okhttp
+  -  com.sdsmdg.tastytoast:tastytoast
+  -  com.facebook.shimmer:shimmer
+  -  io.github.shashank02051997:FancyToast
+  -  androidx.work:work-runtime
+  -  androidx.multidex:multidex
+  
 Please ensure that these dependencies are properly configured in your project's `build.gradle` file to ensure smooth integration and functionality.
 
 ## Contributions
