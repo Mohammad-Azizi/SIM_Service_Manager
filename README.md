@@ -4,16 +4,12 @@ SimCard Services App is an Android application that provides a comprehensive int
 
 ## Features
 
-- **Internet Packages:** Browse and select from a wide range of available internet packages provided by different sim card operators.
-- **SMS:** Send and receive SMS messages conveniently within the app, ensuring seamless communication.
-- **Calls:** Make calls using the app, providing a hassle-free alternative to the standard dialer.
-- **International Calling:** Enable international calling services and enjoy competitive rates for international calls.
--  gateways.
-- **Balance Check:** Easily check the balance of your sim card, ensuring you stay updated on your account status.
-- **Top-Up:** Add money to your sim card balance using various payment options available through the app.
-- **Service Reminders:** Get reminders for package renewals, bill payments, and other important service-related events.
+- **SimCard Information:** Access detailed information about the installed SIM card, including the service provider, phone number, network status, and more.
+- **Balance Check:** Easily check the balance of your sim card to keep track of your available credit or data usage.
+- **Available Services:** Explore the available services provided by your sim card operator, including internet packages, SMS plans, and voice call rates.
+- **Service Activation:** Find instructions and codes to activate or deactivate specific services provided by your sim card operator.
 
-## Screenshots
+- ## Screenshots
 
 ![Screenshot 1](Screenshot_2023-07-07-09-15-00-57_93de6176c683fca90bbea6866320ba71.jpg)
 ![Screenshot 2](Screenshot_2023-07-07-09-15-04-57_93de6176c683fca90bbea6866320ba71.jpg)
