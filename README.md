@@ -4,10 +4,12 @@ SimCard Services App is an Android application that provides a comprehensive int
 
 ## Features
 
-- **SimCard Information:** Access detailed information about the installed SIM card, including the service provider, phone number, network status, and more.
-- **Balance Check:** Easily check the balance of your sim card to keep track of your available credit or data usage.
-- **Available Services:** Explore the available services provided by your sim card operator, including internet packages, SMS plans, and voice call rates.
-- **Service Activation:** Find instructions and codes to activate or deactivate specific services provided by your sim card operator.
+- **Code Reference:** Access a comprehensive collection of activation, deactivation, and other codes for various services offered by Afghan sim card operators.
+- **Service Activation:** Find codes and instructions to activate specific services such as internet packages, SMS plans, and voice call bundles.
+- **Service Deactivation:** Discover codes and guidelines to deactivate services that are no longer needed or to unsubscribe from specific offers.
+- **Balance Check:** Access codes to check the balance of your Afghan sim card, ensuring you stay informed about your available credit or data usage.
+- **Money Transfer Codes:** Explore codes for sending money to the same sim card or initiating mobile money transfers using available services.
+- **Customer Support:** Find contact information for customer support services provided by Afghan sim card operators to address any queries or concerns.
 
 - ## Screenshots
 
