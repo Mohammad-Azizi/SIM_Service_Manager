@@ -1,0 +1,58 @@
+[
+   {
+     "title": "1 GB per month",
+     "price": "110 Afghani",
+     "info": "1 GB Internet for 30 days at the price of 110 Afghanis. Press the green button to activate and the red button to deactivate. Dial *344*30# to activate.",
+     "buttonA": "*344*30#",
+     "buttonD": "D"
+   },
+   {
+     "title": "2GB per month",
+     "price": "220 Afghani",
+     "info": "2 GB Internet for 30 days at the price of 220 Afghanis. To activate, press the green button and to deactivate, press the red button. To activate, dial *344*31#.",
+     "buttonA": "*344*31#",
+     "buttonD": "D"
+   },
+   {
+     "title": "3GB per month",
+     "price": "330 Afghani",
+     "info": "3 GB Internet for 30 days at the price of 330 Afghanis. Press the green button to activate and the red button to deactivate. Dial *344*52# to activate.",
+     "buttonA": "*344*52#",
+     "buttonD": "D"
+   },
+   {
+     "title": "4GB monthly",
+     "price": "440 Afghani",
+     "info": "4 GB Internet for 30 days at the price of 440 Afghanis. To activate, press the green button and to deactivate, press the red button. To activate, dial *344*32#.",
+     "buttonA": "*344*32#",
+     "buttonD": "D"
+   },
+   {
+     "title": "5 GB per month",
+     "price": "499 Afghani",
+     "info": "5 GB Internet for 30 days at the price of 499 Afghanis. Press the green button to activate and the red button to deactivate. Dial *344*53# to activate.",
+     "buttonA": "*344*53#",
+     "buttonD": "D"
+   },
+   {
+     "title": "8GB monthly",
+     "price": "725 Afghani",
+     "info": "8 GB Internet for 30 days at the price of 725 Afghanis. Press the green button to activate and the red button to deactivate. Dial *344*33# to activate.",
+     "buttonA": "*344*33#",
+     "buttonD": "D"
+   },
+   {
+     "title": "15 GB monthly",
+     "price": "1399 Afghani",
+     "info": "15 GB Internet for 30 days at the price of 1399 Afghanis. Press the green button to activate and the red button to deactivate. Dial *344*34# to activate.",
+     "buttonA": "*344*34#",
+     "buttonD": "D"
+   },
+   {
+     "title": "30 GB per month",
+     "price": "2699 Afghani",
+     "info": "30 GB of Internet for 30 days at the price of 2699 Afghanis. Press the green button to activate and the red button to deactivate. Dial *344*36# to activate.",
+     "buttonA": "*344*36#",
+     "buttonD": "D"
+   }
+ ]

@@ -1,0 +1,1062 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.afghanistan.simcards"
+4    android:versionCode="15"
+5    android:versionName="5.0.2" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="20"
+8-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:6:2-64
+11-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:6:19-61
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:7:2-76
+12-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:7:19-73
+13    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+13-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:8:2-77
+13-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:8:19-74
+14    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+14-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:9:2-78
+14-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:9:19-75
+15    <uses-permission android:name="android.permission.ACCESS_VR_MANAGER" />
+15-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:10:2-73
+15-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:10:19-70
+16    <uses-permission android:name="android.permission.DEVICE_POWER" />
+16-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:11:2-68
+16-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:11:19-65
+17    <!-- Android package visibility setting -->
+18    <queries>
+18-->[com.google.android.gms:play-services-ads-lite:20.1.0] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/2720d704f94a32b60dcc91e96b440ad3/transformed/jetified-play-services-ads-lite-20.1.0/AndroidManifest.xml:27:5-43:15
+19
+20        <!-- For browser content -->
+21        <intent>
+21-->[com.google.android.gms:play-services-ads-lite:20.1.0] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/2720d704f94a32b60dcc91e96b440ad3/transformed/jetified-play-services-ads-lite-20.1.0/AndroidManifest.xml:30:9-36:18
+22            <action android:name="android.intent.action.VIEW" />
+22-->[com.google.android.gms:play-services-ads-lite:20.1.0] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/2720d704f94a32b60dcc91e96b440ad3/transformed/jetified-play-services-ads-lite-20.1.0/AndroidManifest.xml:31:13-65
+22-->[com.google.android.gms:play-services-ads-lite:20.1.0] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/2720d704f94a32b60dcc91e96b440ad3/transformed/jetified-play-services-ads-lite-20.1.0/AndroidManifest.xml:31:21-62
+23
+24            <category android:name="android.intent.category.BROWSABLE" />
+24-->[com.google.android.gms:play-services-ads-lite:20.1.0] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/2720d704f94a32b60dcc91e96b440ad3/transformed/jetified-play-services-ads-lite-20.1.0/AndroidManifest.xml:33:13-74
+24-->[com.google.android.gms:play-services-ads-lite:20.1.0] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/2720d704f94a32b60dcc91e96b440ad3/transformed/jetified-play-services-ads-lite-20.1.0/AndroidManifest.xml:33:23-71
+25
+26            <data android:scheme="https" />
+26-->[com.google.android.gms:play-services-ads-lite:20.1.0] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/2720d704f94a32b60dcc91e96b440ad3/transformed/jetified-play-services-ads-lite-20.1.0/AndroidManifest.xml:35:13-44
+26-->[com.google.android.gms:play-services-ads-lite:20.1.0] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/2720d704f94a32b60dcc91e96b440ad3/transformed/jetified-play-services-ads-lite-20.1.0/AndroidManifest.xml:35:19-41
+27        </intent>
+28        <!-- End of browser content -->
+29        <!-- For CustomTabsService -->
+30        <intent>
+30-->[com.google.android.gms:play-services-ads-lite:20.1.0] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/2720d704f94a32b60dcc91e96b440ad3/transformed/jetified-play-services-ads-lite-20.1.0/AndroidManifest.xml:39:9-41:18
+31            <action android:name="android.support.customtabs.action.CustomTabsService" />
+31-->[com.google.android.gms:play-services-ads-lite:20.1.0] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/2720d704f94a32b60dcc91e96b440ad3/transformed/jetified-play-services-ads-lite-20.1.0/AndroidManifest.xml:40:13-90
+31-->[com.google.android.gms:play-services-ads-lite:20.1.0] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/2720d704f94a32b60dcc91e96b440ad3/transformed/jetified-play-services-ads-lite-20.1.0/AndroidManifest.xml:40:21-87
+32        </intent>
+33        <!-- End of CustomTabsService -->
+34    </queries>
+35
+36    <uses-permission android:name="android.permission.WAKE_LOCK" />
+36-->[androidx.work:work-runtime:2.7.0-alpha05] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/198a4670c71502de0eaf81961736c5c2/transformed/work-runtime-2.7.0-alpha05/AndroidManifest.xml:25:5-68
+36-->[androidx.work:work-runtime:2.7.0-alpha05] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/198a4670c71502de0eaf81961736c5c2/transformed/work-runtime-2.7.0-alpha05/AndroidManifest.xml:25:22-65
+37    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+37-->[androidx.work:work-runtime:2.7.0-alpha05] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/198a4670c71502de0eaf81961736c5c2/transformed/work-runtime-2.7.0-alpha05/AndroidManifest.xml:27:5-81
+37-->[androidx.work:work-runtime:2.7.0-alpha05] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/198a4670c71502de0eaf81961736c5c2/transformed/work-runtime-2.7.0-alpha05/AndroidManifest.xml:27:22-78
+38    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+38-->[androidx.work:work-runtime:2.7.0-alpha05] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/198a4670c71502de0eaf81961736c5c2/transformed/work-runtime-2.7.0-alpha05/AndroidManifest.xml:28:5-77
+38-->[androidx.work:work-runtime:2.7.0-alpha05] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/198a4670c71502de0eaf81961736c5c2/transformed/work-runtime-2.7.0-alpha05/AndroidManifest.xml:28:22-74
+39
+40    <application
+40-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:12:2-380:16
+41        android:name="androidx.multidex.MultiDexApplication"
+42        android:allowBackup="true"
+42-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:13:3-29
+43        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+43-->[androidx.core:core:1.7.0] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/3578749c726fa906464dfb4f10fa34a0/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
+44        android:configChanges="locale"
+44-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:21:3-33
+45        android:debuggable="true"
+46        android:icon="@drawable/app_icon"
+46-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:14:3-36
+47        android:label="@string/app_name"
+47-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:15:3-35
+48        android:requestLegacyExternalStorage="true"
+48-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:16:3-46
+49        android:supportsRtl="false"
+49-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:19:9-36
+50        android:theme="@style/AppTheme"
+50-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:18:3-34
+51        android:usesCleartextTraffic="true" >
+51-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:17:3-38
+52        <activity
+52-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:22:3-35:14
+53            android:name="com.afghanistan.simcards.MainActivity"
+53-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:23:4-32
+54            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+54-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:24:4-97
+55            android:exported="true"
+55-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:30:4-27
+56            android:hardwareAccelerated="true"
+56-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:25:4-38
+57            android:screenOrientation="portrait"
+57-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:27:4-40
+58            android:supportsPictureInPicture="true"
+58-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:26:4-43
+59            android:theme="@style/AppTheme"
+59-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:28:4-35
+60            android:windowSoftInputMode="stateHidden" >
+60-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:29:4-45
+61            <intent-filter>
+61-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:31:4-34:20
+62                <action android:name="android.intent.action.MAIN" />
+62-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:32:5-57
+62-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:32:13-54
+63
+64                <category android:name="android.intent.category.LAUNCHER" />
+64-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:33:5-65
+64-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:33:15-62
+65            </intent-filter>
+66        </activity>
+67        <activity
+67-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:36:3-44:30
+68            android:name="com.afghanistan.simcards.Afghan1pageActivity"
+68-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:37:4-39
+69            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+69-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:38:4-97
+70            android:exported="true"
+70-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:44:4-27
+71            android:hardwareAccelerated="true"
+71-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:39:4-38
+72            android:screenOrientation="portrait"
+72-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:41:4-40
+73            android:supportsPictureInPicture="true"
+73-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:40:4-43
+74            android:theme="@style/AppTheme"
+74-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:42:4-35
+75            android:windowSoftInputMode="stateHidden" />
+75-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:43:4-45
+76        <activity
+76-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:45:3-53:30
+77            android:name="com.afghanistan.simcards.Etisalat1pageActivity"
+77-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:46:4-41
+78            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+78-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:47:4-97
+79            android:exported="true"
+79-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:53:4-27
+80            android:hardwareAccelerated="true"
+80-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:48:4-38
+81            android:screenOrientation="portrait"
+81-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:50:4-40
+82            android:supportsPictureInPicture="true"
+82-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:49:4-43
+83            android:theme="@style/AppTheme"
+83-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:51:4-35
+84            android:windowSoftInputMode="stateHidden" />
+84-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:52:4-45
+85        <activity
+85-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:54:3-62:30
+86            android:name="com.afghanistan.simcards.Roshan1pageActivity"
+86-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:55:4-39
+87            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+87-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:56:4-97
+88            android:exported="true"
+88-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:62:4-27
+89            android:hardwareAccelerated="true"
+89-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:57:4-38
+90            android:screenOrientation="portrait"
+90-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:59:4-40
+91            android:supportsPictureInPicture="true"
+91-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:58:4-43
+92            android:theme="@style/AppTheme"
+92-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:60:4-35
+93            android:windowSoftInputMode="stateHidden" />
+93-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:61:4-45
+94        <activity
+94-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:63:3-71:30
+95            android:name="com.afghanistan.simcards.Mtn1pageActivity"
+95-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:64:4-36
+96            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+96-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:65:4-97
+97            android:exported="true"
+97-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:71:4-27
+98            android:hardwareAccelerated="true"
+98-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:66:4-38
+99            android:screenOrientation="portrait"
+99-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:68:4-40
+100            android:supportsPictureInPicture="true"
+100-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:67:4-43
+101            android:theme="@style/AppTheme"
+101-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:69:4-35
+102            android:windowSoftInputMode="stateHidden" />
+102-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:70:4-45
+103        <activity
+103-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:72:3-80:30
+104            android:name="com.afghanistan.simcards.Salaam1pageActivity"
+104-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:73:4-39
+105            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+105-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:74:4-97
+106            android:exported="true"
+106-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:80:4-27
+107            android:hardwareAccelerated="true"
+107-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:75:4-38
+108            android:screenOrientation="portrait"
+108-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:77:4-40
+109            android:supportsPictureInPicture="true"
+109-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:76:4-43
+110            android:theme="@style/AppTheme"
+110-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:78:4-35
+111            android:windowSoftInputMode="stateHidden" />
+111-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:79:4-45
+112        <activity
+112-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:81:3-89:30
+113            android:name="com.afghanistan.simcards.HomeActivity"
+113-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:82:4-32
+114            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+114-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:83:4-97
+115            android:exported="true"
+115-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:89:4-27
+116            android:hardwareAccelerated="true"
+116-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:84:4-38
+117            android:screenOrientation="portrait"
+117-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:86:4-40
+118            android:supportsPictureInPicture="true"
+118-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:85:4-43
+119            android:theme="@style/AppTheme"
+119-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:87:4-35
+120            android:windowSoftInputMode="stateHidden" />
+120-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:88:4-45
+121        <activity
+121-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:90:3-98:30
+122            android:name="com.afghanistan.simcards.SalaamdatapageActivity"
+122-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:91:4-42
+123            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+123-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:92:4-97
+124            android:exported="true"
+124-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:98:4-27
+125            android:hardwareAccelerated="true"
+125-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:93:4-38
+126            android:screenOrientation="portrait"
+126-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:95:4-40
+127            android:supportsPictureInPicture="true"
+127-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:94:4-43
+128            android:theme="@style/AppTheme"
+128-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:96:4-35
+129            android:windowSoftInputMode="stateHidden" />
+129-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:97:4-45
+130        <activity
+130-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:99:3-107:30
+131            android:name="com.afghanistan.simcards.Afgdatapage1Activity"
+131-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:100:4-40
+132            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+132-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:101:4-97
+133            android:exported="true"
+133-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:107:4-27
+134            android:hardwareAccelerated="true"
+134-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:102:4-38
+135            android:screenOrientation="portrait"
+135-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:104:4-40
+136            android:supportsPictureInPicture="true"
+136-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:103:4-43
+137            android:theme="@style/AppTheme"
+137-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:105:4-35
+138            android:windowSoftInputMode="stateHidden" />
+138-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:106:4-45
+139        <activity
+139-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:108:3-116:30
+140            android:name="com.afghanistan.simcards.Etid1Activity"
+140-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:109:4-33
+141            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+141-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:110:4-97
+142            android:exported="true"
+142-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:116:4-27
+143            android:hardwareAccelerated="true"
+143-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:111:4-38
+144            android:screenOrientation="portrait"
+144-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:113:4-40
+145            android:supportsPictureInPicture="true"
+145-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:112:4-43
+146            android:theme="@style/AppTheme"
+146-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:114:4-35
+147            android:windowSoftInputMode="stateHidden" />
+147-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:115:4-45
+148        <activity
+148-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:117:3-125:30
+149            android:name="com.afghanistan.simcards.Rosd1Activity"
+149-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:118:4-33
+150            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+150-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:119:4-97
+151            android:exported="true"
+151-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:125:4-27
+152            android:hardwareAccelerated="true"
+152-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:120:4-38
+153            android:screenOrientation="portrait"
+153-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:122:4-40
+154            android:supportsPictureInPicture="true"
+154-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:121:4-43
+155            android:theme="@style/AppTheme"
+155-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:123:4-35
+156            android:windowSoftInputMode="stateHidden" />
+156-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:124:4-45
+157        <activity
+157-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:126:3-134:30
+158            android:name="com.afghanistan.simcards.Mtd1Activity"
+158-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:127:4-32
+159            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+159-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:128:4-97
+160            android:exported="true"
+160-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:134:4-27
+161            android:hardwareAccelerated="true"
+161-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:129:4-38
+162            android:screenOrientation="portrait"
+162-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:131:4-40
+163            android:supportsPictureInPicture="true"
+163-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:130:4-43
+164            android:theme="@style/AppTheme"
+164-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:132:4-35
+165            android:windowSoftInputMode="stateHidden" />
+165-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:133:4-45
+166        <activity
+166-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:135:3-143:30
+167            android:name="com.afghanistan.simcards.AfgmeActivity"
+167-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:136:4-33
+168            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+168-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:137:4-97
+169            android:exported="true"
+169-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:143:4-27
+170            android:hardwareAccelerated="true"
+170-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:138:4-38
+171            android:screenOrientation="portrait"
+171-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:140:4-40
+172            android:supportsPictureInPicture="true"
+172-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:139:4-43
+173            android:theme="@style/AppTheme"
+173-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:141:4-35
+174            android:windowSoftInputMode="stateHidden" />
+174-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:142:4-45
+175        <activity
+175-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:144:3-152:30
+176            android:name="com.afghanistan.simcards.AfgmessageActivity"
+176-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:145:4-38
+177            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+177-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:146:4-97
+178            android:exported="true"
+178-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:152:4-27
+179            android:hardwareAccelerated="true"
+179-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:147:4-38
+180            android:screenOrientation="portrait"
+180-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:149:4-40
+181            android:supportsPictureInPicture="true"
+181-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:148:4-43
+182            android:theme="@style/AppTheme"
+182-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:150:4-35
+183            android:windowSoftInputMode="stateHidden" />
+183-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:151:4-45
+184        <activity
+184-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:153:3-161:30
+185            android:name="com.afghanistan.simcards.AfginterActivity"
+185-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:154:4-36
+186            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+186-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:155:4-97
+187            android:exported="true"
+187-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:161:4-27
+188            android:hardwareAccelerated="true"
+188-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:156:4-38
+189            android:screenOrientation="portrait"
+189-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:158:4-40
+190            android:supportsPictureInPicture="true"
+190-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:157:4-43
+191            android:theme="@style/AppTheme"
+191-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:159:4-35
+192            android:windowSoftInputMode="stateHidden" />
+192-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:160:4-45
+193        <activity
+193-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:162:3-170:30
+194            android:name="com.afghanistan.simcards.EtimessActivity"
+194-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:163:4-35
+195            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+195-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:164:4-97
+196            android:exported="true"
+196-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:170:4-27
+197            android:hardwareAccelerated="true"
+197-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:165:4-38
+198            android:screenOrientation="portrait"
+198-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:167:4-40
+199            android:supportsPictureInPicture="true"
+199-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:166:4-43
+200            android:theme="@style/AppTheme"
+200-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:168:4-35
+201            android:windowSoftInputMode="stateHidden" />
+201-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:169:4-45
+202        <activity
+202-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:171:3-179:30
+203            android:name="com.afghanistan.simcards.EticallActivity"
+203-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:172:4-35
+204            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+204-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:173:4-97
+205            android:exported="true"
+205-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:179:4-27
+206            android:hardwareAccelerated="true"
+206-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:174:4-38
+207            android:screenOrientation="portrait"
+207-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:176:4-40
+208            android:supportsPictureInPicture="true"
+208-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:175:4-43
+209            android:theme="@style/AppTheme"
+209-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:177:4-35
+210            android:windowSoftInputMode="stateHidden" />
+210-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:178:4-45
+211        <activity
+211-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:180:3-188:30
+212            android:name="com.afghanistan.simcards.EtiinterActivity"
+212-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:181:4-36
+213            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+213-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:182:4-97
+214            android:exported="true"
+214-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:188:4-27
+215            android:hardwareAccelerated="true"
+215-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:183:4-38
+216            android:screenOrientation="portrait"
+216-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:185:4-40
+217            android:supportsPictureInPicture="true"
+217-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:184:4-43
+218            android:theme="@style/AppTheme"
+218-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:186:4-35
+219            android:windowSoftInputMode="stateHidden" />
+219-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:187:4-45
+220        <activity
+220-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:189:3-197:30
+221            android:name="com.afghanistan.simcards.RoshmessActivity"
+221-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:190:4-36
+222            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+222-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:191:4-97
+223            android:exported="true"
+223-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:197:4-27
+224            android:hardwareAccelerated="true"
+224-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:192:4-38
+225            android:screenOrientation="portrait"
+225-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:194:4-40
+226            android:supportsPictureInPicture="true"
+226-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:193:4-43
+227            android:theme="@style/AppTheme"
+227-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:195:4-35
+228            android:windowSoftInputMode="stateHidden" />
+228-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:196:4-45
+229        <activity
+229-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:198:3-206:30
+230            android:name="com.afghanistan.simcards.RoshcallActivity"
+230-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:199:4-36
+231            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+231-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:200:4-97
+232            android:exported="true"
+232-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:206:4-27
+233            android:hardwareAccelerated="true"
+233-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:201:4-38
+234            android:screenOrientation="portrait"
+234-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:203:4-40
+235            android:supportsPictureInPicture="true"
+235-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:202:4-43
+236            android:theme="@style/AppTheme"
+236-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:204:4-35
+237            android:windowSoftInputMode="stateHidden" />
+237-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:205:4-45
+238        <activity
+238-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:207:3-215:30
+239            android:name="com.afghanistan.simcards.RoshinterActivity"
+239-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:208:4-37
+240            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+240-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:209:4-97
+241            android:exported="true"
+241-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:215:4-27
+242            android:hardwareAccelerated="true"
+242-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:210:4-38
+243            android:screenOrientation="portrait"
+243-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:212:4-40
+244            android:supportsPictureInPicture="true"
+244-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:211:4-43
+245            android:theme="@style/AppTheme"
+245-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:213:4-35
+246            android:windowSoftInputMode="stateHidden" />
+246-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:214:4-45
+247        <activity
+247-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:216:3-224:30
+248            android:name="com.afghanistan.simcards.MtmessActivity"
+248-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:217:4-34
+249            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+249-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:218:4-97
+250            android:exported="true"
+250-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:224:4-27
+251            android:hardwareAccelerated="true"
+251-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:219:4-38
+252            android:screenOrientation="portrait"
+252-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:221:4-40
+253            android:supportsPictureInPicture="true"
+253-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:220:4-43
+254            android:theme="@style/AppTheme"
+254-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:222:4-35
+255            android:windowSoftInputMode="stateHidden" />
+255-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:223:4-45
+256        <activity
+256-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:225:3-233:30
+257            android:name="com.afghanistan.simcards.MtcallActivity"
+257-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:226:4-34
+258            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+258-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:227:4-97
+259            android:exported="true"
+259-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:233:4-27
+260            android:hardwareAccelerated="true"
+260-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:228:4-38
+261            android:screenOrientation="portrait"
+261-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:230:4-40
+262            android:supportsPictureInPicture="true"
+262-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:229:4-43
+263            android:theme="@style/AppTheme"
+263-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:231:4-35
+264            android:windowSoftInputMode="stateHidden" />
+264-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:232:4-45
+265        <activity
+265-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:234:3-242:30
+266            android:name="com.afghanistan.simcards.MtnjnterActivity"
+266-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:235:4-36
+267            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+267-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:236:4-97
+268            android:exported="true"
+268-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:242:4-27
+269            android:hardwareAccelerated="true"
+269-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:237:4-38
+270            android:screenOrientation="portrait"
+270-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:239:4-40
+271            android:supportsPictureInPicture="true"
+271-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:238:4-43
+272            android:theme="@style/AppTheme"
+272-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:240:4-35
+273            android:windowSoftInputMode="stateHidden" />
+273-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:241:4-45
+274        <activity
+274-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:243:3-251:30
+275            android:name="com.afghanistan.simcards.SallmessActivity"
+275-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:244:4-36
+276            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+276-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:245:4-97
+277            android:exported="true"
+277-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:251:4-27
+278            android:hardwareAccelerated="true"
+278-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:246:4-38
+279            android:screenOrientation="portrait"
+279-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:248:4-40
+280            android:supportsPictureInPicture="true"
+280-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:247:4-43
+281            android:theme="@style/AppTheme"
+281-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:249:4-35
+282            android:windowSoftInputMode="stateHidden" />
+282-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:250:4-45
+283        <activity
+283-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:252:3-260:30
+284            android:name="com.afghanistan.simcards.SallcallActivity"
+284-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:253:4-36
+285            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+285-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:254:4-97
+286            android:exported="true"
+286-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:260:4-27
+287            android:hardwareAccelerated="true"
+287-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:255:4-38
+288            android:screenOrientation="portrait"
+288-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:257:4-40
+289            android:supportsPictureInPicture="true"
+289-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:256:4-43
+290            android:theme="@style/AppTheme"
+290-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:258:4-35
+291            android:windowSoftInputMode="stateHidden" />
+291-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:259:4-45
+292        <activity
+292-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:261:3-269:30
+293            android:name="com.afghanistan.simcards.SalinterActivity"
+293-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:262:4-36
+294            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+294-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:263:4-97
+295            android:exported="true"
+295-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:269:4-27
+296            android:hardwareAccelerated="true"
+296-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:264:4-38
+297            android:screenOrientation="portrait"
+297-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:266:4-40
+298            android:supportsPictureInPicture="true"
+298-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:265:4-43
+299            android:theme="@style/AppTheme"
+299-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:267:4-35
+300            android:windowSoftInputMode="stateHidden" />
+300-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:268:4-45
+301        <activity
+301-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:270:3-278:30
+302            android:name="com.afghanistan.simcards.AfgsettActivity"
+302-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:271:4-35
+303            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+303-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:272:4-97
+304            android:exported="true"
+304-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:278:4-27
+305            android:hardwareAccelerated="true"
+305-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:273:4-38
+306            android:screenOrientation="portrait"
+306-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:275:4-40
+307            android:supportsPictureInPicture="true"
+307-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:274:4-43
+308            android:theme="@style/AppTheme"
+308-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:276:4-35
+309            android:windowSoftInputMode="stateHidden" />
+309-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:277:4-45
+310        <activity
+310-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:279:3-287:30
+311            android:name="com.afghanistan.simcards.EtisettActivity"
+311-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:280:4-35
+312            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+312-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:281:4-97
+313            android:exported="true"
+313-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:287:4-27
+314            android:hardwareAccelerated="true"
+314-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:282:4-38
+315            android:screenOrientation="portrait"
+315-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:284:4-40
+316            android:supportsPictureInPicture="true"
+316-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:283:4-43
+317            android:theme="@style/AppTheme"
+317-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:285:4-35
+318            android:windowSoftInputMode="stateHidden" />
+318-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:286:4-45
+319        <activity
+319-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:288:3-296:30
+320            android:name="com.afghanistan.simcards.RoshsettActivity"
+320-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:289:4-36
+321            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+321-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:290:4-97
+322            android:exported="true"
+322-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:296:4-27
+323            android:hardwareAccelerated="true"
+323-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:291:4-38
+324            android:screenOrientation="portrait"
+324-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:293:4-40
+325            android:supportsPictureInPicture="true"
+325-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:292:4-43
+326            android:theme="@style/AppTheme"
+326-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:294:4-35
+327            android:windowSoftInputMode="stateHidden" />
+327-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:295:4-45
+328        <activity
+328-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:297:3-305:30
+329            android:name="com.afghanistan.simcards.MtnsettActivity"
+329-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:298:4-35
+330            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+330-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:299:4-97
+331            android:exported="true"
+331-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:305:4-27
+332            android:hardwareAccelerated="true"
+332-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:300:4-38
+333            android:screenOrientation="portrait"
+333-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:302:4-40
+334            android:supportsPictureInPicture="true"
+334-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:301:4-43
+335            android:theme="@style/AppTheme"
+335-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:303:4-35
+336            android:windowSoftInputMode="stateHidden" />
+336-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:304:4-45
+337        <activity
+337-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:306:3-314:30
+338            android:name="com.afghanistan.simcards.SallsettActivity"
+338-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:307:4-36
+339            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+339-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:308:4-97
+340            android:exported="true"
+340-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:314:4-27
+341            android:hardwareAccelerated="true"
+341-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:309:4-38
+342            android:screenOrientation="portrait"
+342-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:311:4-40
+343            android:supportsPictureInPicture="true"
+343-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:310:4-43
+344            android:theme="@style/AppTheme"
+344-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:312:4-35
+345            android:windowSoftInputMode="stateHidden" />
+345-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:313:4-45
+346        <activity
+346-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:315:3-323:30
+347            android:name="com.afghanistan.simcards.PostActivity"
+347-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:316:4-32
+348            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+348-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:317:4-97
+349            android:exported="true"
+349-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:323:4-27
+350            android:hardwareAccelerated="true"
+350-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:318:4-38
+351            android:screenOrientation="portrait"
+351-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:320:4-40
+352            android:supportsPictureInPicture="true"
+352-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:319:4-43
+353            android:theme="@style/AppTheme"
+353-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:321:4-35
+354            android:windowSoftInputMode="stateHidden" />
+354-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:322:4-45
+355        <activity
+355-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:324:3-332:30
+356            android:name="com.afghanistan.simcards.BundleActivity"
+356-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:325:4-34
+357            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+357-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:326:4-97
+358            android:exported="true"
+358-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:332:4-27
+359            android:hardwareAccelerated="true"
+359-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:327:4-38
+360            android:screenOrientation="portrait"
+360-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:329:4-40
+361            android:supportsPictureInPicture="true"
+361-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:328:4-43
+362            android:theme="@style/AppTheme"
+362-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:330:4-35
+363            android:windowSoftInputMode="stateHidden" />
+363-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:331:4-45
+364        <activity
+364-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:333:3-341:30
+365            android:name="com.afghanistan.simcards.AboutActivity"
+365-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:334:4-33
+366            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+366-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:335:4-97
+367            android:exported="true"
+367-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:341:4-27
+368            android:hardwareAccelerated="true"
+368-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:336:4-38
+369            android:screenOrientation="portrait"
+369-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:338:4-40
+370            android:supportsPictureInPicture="true"
+370-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:337:4-43
+371            android:theme="@style/AppTheme"
+371-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:339:4-35
+372            android:windowSoftInputMode="stateHidden" />
+372-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:340:4-45
+373        <activity
+373-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:342:3-350:30
+374            android:name="com.afghanistan.simcards.DebugActivity"
+374-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:343:4-33
+375            android:configChanges="orientation|screenSize|keyboardHidden|smallestScreenSize|screenLayout"
+375-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:344:4-97
+376            android:exported="true"
+376-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:350:4-27
+377            android:hardwareAccelerated="true"
+377-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:345:4-38
+378            android:screenOrientation="portrait"
+378-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:347:4-40
+379            android:supportsPictureInPicture="true"
+379-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:346:4-43
+380            android:theme="@style/AppTheme"
+380-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:348:4-35
+381            android:windowSoftInputMode="stateHidden" />
+381-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:349:4-45
+382        <activity
+382-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:351:3-354:55
+383            android:name="com.google.android.gms.ads.AdActivity"
+383-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:352:4-56
+384            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
+384-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:353:4-113
+385            android:exported="false"
+385-->[com.google.android.gms:play-services-ads-lite:20.1.0] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/2720d704f94a32b60dcc91e96b440ad3/transformed/jetified-play-services-ads-lite-20.1.0/AndroidManifest.xml:51:13-37
+386            android:theme="@android:style/Theme.Translucent" />
+386-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:354:4-52
+387
+388        <meta-data
+388-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:355:3-357:60
+389            android:name="com.google.android.gms.version"
+389-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:356:4-49
+390            android:value="@integer/google_play_services_version" />
+390-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:357:4-57
+391
+392        <provider
+392-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:358:3-362:30
+393            android:name="com.google.firebase.provider.FirebaseInitProvider"
+393-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:359:4-68
+394            android:authorities="com.afghanistan.simcards.firebaseinitprovider"
+394-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:360:4-71
+395            android:exported="false"
+395-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:361:4-28
+396            android:initOrder="100" />
+396-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:362:4-27
+397
+398        <service
+398-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:363:3-372:13
+399            android:name="com.google.firebase.components.ComponentDiscoveryService"
+399-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:364:4-75
+400            android:exported="false" >
+400-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:365:4-28
+401            <meta-data
+401-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:366:4-368:73
+402                android:name="com.google.firebase.components:com.google.firebase.database.DatabaseRegistrar"
+402-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:367:5-97
+403                android:value="com.google.firebase.components.ComponentRegistrar" />
+403-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:368:5-70
+404            <meta-data
+404-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:369:4-371:73
+405                android:name="com.google.firebase.components:com.google.firebase.storage.StorageRegistrar"
+405-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:370:5-95
+406                android:value="com.google.firebase.components.ComponentRegistrar" />
+406-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:371:5-70
+407        </service>
+408
+409        <uses-library
+409-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:373:3-375:31
+410            android:name="org.apache.http.legacy"
+410-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:374:4-41
+411            android:required="false" />
+411-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:375:4-28
+412
+413        <meta-data
+413-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:377:1-379:69
+414            android:name="com.google.android.gms.ads.APPLICATION_ID"
+414-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:378:13-69
+415            android:value="ca-app-pub-3422523697646765~9511281482" />
+415-->/storage/emulated/0/AndroidIDEProjects/NewProject6/app/src/main/AndroidManifest.xml:379:13-67
+416
+417        <provider
+417-->[com.google.android.gms:play-services-ads-lite:20.1.0] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/2720d704f94a32b60dcc91e96b440ad3/transformed/jetified-play-services-ads-lite-20.1.0/AndroidManifest.xml:54:9-58:39
+418            android:name="com.google.android.gms.ads.MobileAdsInitProvider"
+418-->[com.google.android.gms:play-services-ads-lite:20.1.0] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/2720d704f94a32b60dcc91e96b440ad3/transformed/jetified-play-services-ads-lite-20.1.0/AndroidManifest.xml:55:13-76
+419            android:authorities="com.afghanistan.simcards.mobileadsinitprovider"
+419-->[com.google.android.gms:play-services-ads-lite:20.1.0] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/2720d704f94a32b60dcc91e96b440ad3/transformed/jetified-play-services-ads-lite-20.1.0/AndroidManifest.xml:56:13-73
+420            android:exported="false"
+420-->[com.google.android.gms:play-services-ads-lite:20.1.0] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/2720d704f94a32b60dcc91e96b440ad3/transformed/jetified-play-services-ads-lite-20.1.0/AndroidManifest.xml:57:13-37
+421            android:initOrder="100" />
+421-->[com.google.android.gms:play-services-ads-lite:20.1.0] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/2720d704f94a32b60dcc91e96b440ad3/transformed/jetified-play-services-ads-lite-20.1.0/AndroidManifest.xml:58:13-36
+422
+423        <service
+423-->[com.google.android.gms:play-services-ads-lite:20.1.0] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/2720d704f94a32b60dcc91e96b440ad3/transformed/jetified-play-services-ads-lite-20.1.0/AndroidManifest.xml:60:9-63:40
+424            android:name="com.google.android.gms.ads.AdService"
+424-->[com.google.android.gms:play-services-ads-lite:20.1.0] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/2720d704f94a32b60dcc91e96b440ad3/transformed/jetified-play-services-ads-lite-20.1.0/AndroidManifest.xml:61:13-64
+425            android:enabled="true"
+425-->[com.google.android.gms:play-services-ads-lite:20.1.0] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/2720d704f94a32b60dcc91e96b440ad3/transformed/jetified-play-services-ads-lite-20.1.0/AndroidManifest.xml:62:13-35
+426            android:exported="false" />
+426-->[com.google.android.gms:play-services-ads-lite:20.1.0] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/2720d704f94a32b60dcc91e96b440ad3/transformed/jetified-play-services-ads-lite-20.1.0/AndroidManifest.xml:63:13-37
+427
+428        <provider
+428-->[androidx.work:work-runtime:2.7.0-alpha05] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/198a4670c71502de0eaf81961736c5c2/transformed/work-runtime-2.7.0-alpha05/AndroidManifest.xml:31:9-39:20
+429            android:name="androidx.startup.InitializationProvider"
+429-->[androidx.work:work-runtime:2.7.0-alpha05] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/198a4670c71502de0eaf81961736c5c2/transformed/work-runtime-2.7.0-alpha05/AndroidManifest.xml:32:13-67
+430            android:authorities="com.afghanistan.simcards.androidx-startup"
+430-->[androidx.work:work-runtime:2.7.0-alpha05] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/198a4670c71502de0eaf81961736c5c2/transformed/work-runtime-2.7.0-alpha05/AndroidManifest.xml:33:13-68
+431            android:exported="false" >
+431-->[androidx.work:work-runtime:2.7.0-alpha05] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/198a4670c71502de0eaf81961736c5c2/transformed/work-runtime-2.7.0-alpha05/AndroidManifest.xml:34:13-37
+432            <meta-data
+432-->[androidx.work:work-runtime:2.7.0-alpha05] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/198a4670c71502de0eaf81961736c5c2/transformed/work-runtime-2.7.0-alpha05/AndroidManifest.xml:36:13-38:52
+433                android:name="androidx.work.WorkManagerInitializer"
+433-->[androidx.work:work-runtime:2.7.0-alpha05] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/198a4670c71502de0eaf81961736c5c2/transformed/work-runtime-2.7.0-alpha05/AndroidManifest.xml:37:17-68
+434                android:value="androidx.startup" />
+434-->[androidx.work:work-runtime:2.7.0-alpha05] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/198a4670c71502de0eaf81961736c5c2/transformed/work-runtime-2.7.0-alpha05/AndroidManifest.xml:38:17-49
+435            <meta-data
+435-->[androidx.emoji2:emoji2:1.0.0] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/ed25ff132a6d7104a8a4e2acab82b4fa/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:31:13-33:52
+436                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+436-->[androidx.emoji2:emoji2:1.0.0] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/ed25ff132a6d7104a8a4e2acab82b4fa/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:32:17-75
+437                android:value="androidx.startup" />
+437-->[androidx.emoji2:emoji2:1.0.0] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/ed25ff132a6d7104a8a4e2acab82b4fa/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:33:17-49
+438            <meta-data
+438-->[androidx.lifecycle:lifecycle-process:2.4.0] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/65852a360ec6295790a44183711e6f2f/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
+439                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+439-->[androidx.lifecycle:lifecycle-process:2.4.0] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/65852a360ec6295790a44183711e6f2f/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78
+440                android:value="androidx.startup" />
+440-->[androidx.lifecycle:lifecycle-process:2.4.0] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/65852a360ec6295790a44183711e6f2f/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
+441        </provider>
+442
+443        <service
+443-->[androidx.work:work-runtime:2.7.0-alpha05] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/198a4670c71502de0eaf81961736c5c2/transformed/work-runtime-2.7.0-alpha05/AndroidManifest.xml:41:9-46:35
+444            android:name="androidx.work.impl.background.systemalarm.SystemAlarmService"
+444-->[androidx.work:work-runtime:2.7.0-alpha05] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/198a4670c71502de0eaf81961736c5c2/transformed/work-runtime-2.7.0-alpha05/AndroidManifest.xml:42:13-88
+445            android:directBootAware="false"
+445-->[androidx.work:work-runtime:2.7.0-alpha05] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/198a4670c71502de0eaf81961736c5c2/transformed/work-runtime-2.7.0-alpha05/AndroidManifest.xml:43:13-44
+446            android:enabled="@bool/enable_system_alarm_service_default"
+446-->[androidx.work:work-runtime:2.7.0-alpha05] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/198a4670c71502de0eaf81961736c5c2/transformed/work-runtime-2.7.0-alpha05/AndroidManifest.xml:44:13-72
+447            android:exported="false" />
+447-->[androidx.work:work-runtime:2.7.0-alpha05] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/198a4670c71502de0eaf81961736c5c2/transformed/work-runtime-2.7.0-alpha05/AndroidManifest.xml:45:13-37
+448        <service
+448-->[androidx.work:work-runtime:2.7.0-alpha05] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/198a4670c71502de0eaf81961736c5c2/transformed/work-runtime-2.7.0-alpha05/AndroidManifest.xml:47:9-53:35
+449            android:name="androidx.work.impl.background.systemjob.SystemJobService"
+449-->[androidx.work:work-runtime:2.7.0-alpha05] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/198a4670c71502de0eaf81961736c5c2/transformed/work-runtime-2.7.0-alpha05/AndroidManifest.xml:48:13-84
+450            android:directBootAware="false"
+450-->[androidx.work:work-runtime:2.7.0-alpha05] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/198a4670c71502de0eaf81961736c5c2/transformed/work-runtime-2.7.0-alpha05/AndroidManifest.xml:49:13-44
+451            android:enabled="@bool/enable_system_job_service_default"
+451-->[androidx.work:work-runtime:2.7.0-alpha05] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/198a4670c71502de0eaf81961736c5c2/transformed/work-runtime-2.7.0-alpha05/AndroidManifest.xml:50:13-70
+452            android:exported="true"
+452-->[androidx.work:work-runtime:2.7.0-alpha05] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/198a4670c71502de0eaf81961736c5c2/transformed/work-runtime-2.7.0-alpha05/AndroidManifest.xml:51:13-36
+453            android:permission="android.permission.BIND_JOB_SERVICE" />
+453-->[androidx.work:work-runtime:2.7.0-alpha05] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/198a4670c71502de0eaf81961736c5c2/transformed/work-runtime-2.7.0-alpha05/AndroidManifest.xml:52:13-69
+454        <service
+454-->[androidx.work:work-runtime:2.7.0-alpha05] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/198a4670c71502de0eaf81961736c5c2/transformed/work-runtime-2.7.0-alpha05/AndroidManifest.xml:54:9-59:35
+455            android:name="androidx.work.impl.foreground.SystemForegroundService"
+455-->[androidx.work:work-runtime:2.7.0-alpha05] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/198a4670c71502de0eaf81961736c5c2/transformed/work-runtime-2.7.0-alpha05/AndroidManifest.xml:55:13-81
+456            android:directBootAware="false"
+456-->[androidx.work:work-runtime:2.7.0-alpha05] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/198a4670c71502de0eaf81961736c5c2/transformed/work-runtime-2.7.0-alpha05/AndroidManifest.xml:56:13-44
+457            android:enabled="@bool/enable_system_foreground_service_default"
+457-->[androidx.work:work-runtime:2.7.0-alpha05] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/198a4670c71502de0eaf81961736c5c2/transformed/work-runtime-2.7.0-alpha05/AndroidManifest.xml:57:13-77
+458            android:exported="false" />
+458-->[androidx.work:work-runtime:2.7.0-alpha05] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/198a4670c71502de0eaf81961736c5c2/transformed/work-runtime-2.7.0-alpha05/AndroidManifest.xml:58:13-37
+459
+460        <receiver
+460-->[androidx.work:work-runtime:2.7.0-alpha05] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/198a4670c71502de0eaf81961736c5c2/transformed/work-runtime-2.7.0-alpha05/AndroidManifest.xml:61:9-66:35
+461            android:name="androidx.work.impl.utils.ForceStopRunnable$BroadcastReceiver"
+461-->[androidx.work:work-runtime:2.7.0-alpha05] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/198a4670c71502de0eaf81961736c5c2/transformed/work-runtime-2.7.0-alpha05/AndroidManifest.xml:62:13-88
+462            android:directBootAware="false"
+462-->[androidx.work:work-runtime:2.7.0-alpha05] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/198a4670c71502de0eaf81961736c5c2/transformed/work-runtime-2.7.0-alpha05/AndroidManifest.xml:63:13-44
+463            android:enabled="true"
+463-->[androidx.work:work-runtime:2.7.0-alpha05] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/198a4670c71502de0eaf81961736c5c2/transformed/work-runtime-2.7.0-alpha05/AndroidManifest.xml:64:13-35
+464            android:exported="false" />
+464-->[androidx.work:work-runtime:2.7.0-alpha05] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/198a4670c71502de0eaf81961736c5c2/transformed/work-runtime-2.7.0-alpha05/AndroidManifest.xml:65:13-37
+465        <receiver
+465-->[androidx.work:work-runtime:2.7.0-alpha05] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/198a4670c71502de0eaf81961736c5c2/transformed/work-runtime-2.7.0-alpha05/AndroidManifest.xml:67:9-77:20
+466            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryChargingProxy"
+466-->[androidx.work:work-runtime:2.7.0-alpha05] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/198a4670c71502de0eaf81961736c5c2/transformed/work-runtime-2.7.0-alpha05/AndroidManifest.xml:68:13-106
+467            android:directBootAware="false"
+467-->[androidx.work:work-runtime:2.7.0-alpha05] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/198a4670c71502de0eaf81961736c5c2/transformed/work-runtime-2.7.0-alpha05/AndroidManifest.xml:69:13-44
+468            android:enabled="false"
+468-->[androidx.work:work-runtime:2.7.0-alpha05] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/198a4670c71502de0eaf81961736c5c2/transformed/work-runtime-2.7.0-alpha05/AndroidManifest.xml:70:13-36
+469            android:exported="false" >
+469-->[androidx.work:work-runtime:2.7.0-alpha05] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/198a4670c71502de0eaf81961736c5c2/transformed/work-runtime-2.7.0-alpha05/AndroidManifest.xml:71:13-37
+470            <intent-filter>
+470-->[androidx.work:work-runtime:2.7.0-alpha05] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/198a4670c71502de0eaf81961736c5c2/transformed/work-runtime-2.7.0-alpha05/AndroidManifest.xml:73:13-76:29
+471                <action android:name="android.intent.action.ACTION_POWER_CONNECTED" />
+471-->[androidx.work:work-runtime:2.7.0-alpha05] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/198a4670c71502de0eaf81961736c5c2/transformed/work-runtime-2.7.0-alpha05/AndroidManifest.xml:74:17-87
+471-->[androidx.work:work-runtime:2.7.0-alpha05] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/198a4670c71502de0eaf81961736c5c2/transformed/work-runtime-2.7.0-alpha05/AndroidManifest.xml:74:25-84
+472                <action android:name="android.intent.action.ACTION_POWER_DISCONNECTED" />
+472-->[androidx.work:work-runtime:2.7.0-alpha05] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/198a4670c71502de0eaf81961736c5c2/transformed/work-runtime-2.7.0-alpha05/AndroidManifest.xml:75:17-90
+472-->[androidx.work:work-runtime:2.7.0-alpha05] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/198a4670c71502de0eaf81961736c5c2/transformed/work-runtime-2.7.0-alpha05/AndroidManifest.xml:75:25-87
+473            </intent-filter>
+474        </receiver>
+475        <receiver
+475-->[androidx.work:work-runtime:2.7.0-alpha05] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/198a4670c71502de0eaf81961736c5c2/transformed/work-runtime-2.7.0-alpha05/AndroidManifest.xml:78:9-88:20
+476            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$BatteryNotLowProxy"
+476-->[androidx.work:work-runtime:2.7.0-alpha05] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/198a4670c71502de0eaf81961736c5c2/transformed/work-runtime-2.7.0-alpha05/AndroidManifest.xml:79:13-104
+477            android:directBootAware="false"
+477-->[androidx.work:work-runtime:2.7.0-alpha05] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/198a4670c71502de0eaf81961736c5c2/transformed/work-runtime-2.7.0-alpha05/AndroidManifest.xml:80:13-44
+478            android:enabled="false"
+478-->[androidx.work:work-runtime:2.7.0-alpha05] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/198a4670c71502de0eaf81961736c5c2/transformed/work-runtime-2.7.0-alpha05/AndroidManifest.xml:81:13-36
+479            android:exported="false" >
+479-->[androidx.work:work-runtime:2.7.0-alpha05] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/198a4670c71502de0eaf81961736c5c2/transformed/work-runtime-2.7.0-alpha05/AndroidManifest.xml:82:13-37
+480            <intent-filter>
+480-->[androidx.work:work-runtime:2.7.0-alpha05] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/198a4670c71502de0eaf81961736c5c2/transformed/work-runtime-2.7.0-alpha05/AndroidManifest.xml:84:13-87:29
+481                <action android:name="android.intent.action.BATTERY_OKAY" />
+481-->[androidx.work:work-runtime:2.7.0-alpha05] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/198a4670c71502de0eaf81961736c5c2/transformed/work-runtime-2.7.0-alpha05/AndroidManifest.xml:85:17-77
+481-->[androidx.work:work-runtime:2.7.0-alpha05] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/198a4670c71502de0eaf81961736c5c2/transformed/work-runtime-2.7.0-alpha05/AndroidManifest.xml:85:25-74
+482                <action android:name="android.intent.action.BATTERY_LOW" />
+482-->[androidx.work:work-runtime:2.7.0-alpha05] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/198a4670c71502de0eaf81961736c5c2/transformed/work-runtime-2.7.0-alpha05/AndroidManifest.xml:86:17-76
+482-->[androidx.work:work-runtime:2.7.0-alpha05] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/198a4670c71502de0eaf81961736c5c2/transformed/work-runtime-2.7.0-alpha05/AndroidManifest.xml:86:25-73
+483            </intent-filter>
+484        </receiver>
+485        <receiver
+485-->[androidx.work:work-runtime:2.7.0-alpha05] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/198a4670c71502de0eaf81961736c5c2/transformed/work-runtime-2.7.0-alpha05/AndroidManifest.xml:89:9-99:20
+486            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$StorageNotLowProxy"
+486-->[androidx.work:work-runtime:2.7.0-alpha05] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/198a4670c71502de0eaf81961736c5c2/transformed/work-runtime-2.7.0-alpha05/AndroidManifest.xml:90:13-104
+487            android:directBootAware="false"
+487-->[androidx.work:work-runtime:2.7.0-alpha05] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/198a4670c71502de0eaf81961736c5c2/transformed/work-runtime-2.7.0-alpha05/AndroidManifest.xml:91:13-44
+488            android:enabled="false"
+488-->[androidx.work:work-runtime:2.7.0-alpha05] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/198a4670c71502de0eaf81961736c5c2/transformed/work-runtime-2.7.0-alpha05/AndroidManifest.xml:92:13-36
+489            android:exported="false" >
+489-->[androidx.work:work-runtime:2.7.0-alpha05] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/198a4670c71502de0eaf81961736c5c2/transformed/work-runtime-2.7.0-alpha05/AndroidManifest.xml:93:13-37
+490            <intent-filter>
+490-->[androidx.work:work-runtime:2.7.0-alpha05] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/198a4670c71502de0eaf81961736c5c2/transformed/work-runtime-2.7.0-alpha05/AndroidManifest.xml:95:13-98:29
+491                <action android:name="android.intent.action.DEVICE_STORAGE_LOW" />
+491-->[androidx.work:work-runtime:2.7.0-alpha05] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/198a4670c71502de0eaf81961736c5c2/transformed/work-runtime-2.7.0-alpha05/AndroidManifest.xml:96:17-83
+491-->[androidx.work:work-runtime:2.7.0-alpha05] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/198a4670c71502de0eaf81961736c5c2/transformed/work-runtime-2.7.0-alpha05/AndroidManifest.xml:96:25-80
+492                <action android:name="android.intent.action.DEVICE_STORAGE_OK" />
+492-->[androidx.work:work-runtime:2.7.0-alpha05] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/198a4670c71502de0eaf81961736c5c2/transformed/work-runtime-2.7.0-alpha05/AndroidManifest.xml:97:17-82
+492-->[androidx.work:work-runtime:2.7.0-alpha05] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/198a4670c71502de0eaf81961736c5c2/transformed/work-runtime-2.7.0-alpha05/AndroidManifest.xml:97:25-79
+493            </intent-filter>
+494        </receiver>
+495        <receiver
+495-->[androidx.work:work-runtime:2.7.0-alpha05] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/198a4670c71502de0eaf81961736c5c2/transformed/work-runtime-2.7.0-alpha05/AndroidManifest.xml:100:9-109:20
+496            android:name="androidx.work.impl.background.systemalarm.ConstraintProxy$NetworkStateProxy"
+496-->[androidx.work:work-runtime:2.7.0-alpha05] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/198a4670c71502de0eaf81961736c5c2/transformed/work-runtime-2.7.0-alpha05/AndroidManifest.xml:101:13-103
+497            android:directBootAware="false"
+497-->[androidx.work:work-runtime:2.7.0-alpha05] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/198a4670c71502de0eaf81961736c5c2/transformed/work-runtime-2.7.0-alpha05/AndroidManifest.xml:102:13-44
+498            android:enabled="false"
+498-->[androidx.work:work-runtime:2.7.0-alpha05] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/198a4670c71502de0eaf81961736c5c2/transformed/work-runtime-2.7.0-alpha05/AndroidManifest.xml:103:13-36
+499            android:exported="false" >
+499-->[androidx.work:work-runtime:2.7.0-alpha05] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/198a4670c71502de0eaf81961736c5c2/transformed/work-runtime-2.7.0-alpha05/AndroidManifest.xml:104:13-37
+500            <intent-filter>
+500-->[androidx.work:work-runtime:2.7.0-alpha05] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/198a4670c71502de0eaf81961736c5c2/transformed/work-runtime-2.7.0-alpha05/AndroidManifest.xml:106:13-108:29
+501                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+501-->[androidx.work:work-runtime:2.7.0-alpha05] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/198a4670c71502de0eaf81961736c5c2/transformed/work-runtime-2.7.0-alpha05/AndroidManifest.xml:107:17-79
+501-->[androidx.work:work-runtime:2.7.0-alpha05] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/198a4670c71502de0eaf81961736c5c2/transformed/work-runtime-2.7.0-alpha05/AndroidManifest.xml:107:25-76
+502            </intent-filter>
+503        </receiver>
+504        <receiver
+504-->[androidx.work:work-runtime:2.7.0-alpha05] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/198a4670c71502de0eaf81961736c5c2/transformed/work-runtime-2.7.0-alpha05/AndroidManifest.xml:110:9-121:20
+505            android:name="androidx.work.impl.background.systemalarm.RescheduleReceiver"
+505-->[androidx.work:work-runtime:2.7.0-alpha05] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/198a4670c71502de0eaf81961736c5c2/transformed/work-runtime-2.7.0-alpha05/AndroidManifest.xml:111:13-88
+506            android:directBootAware="false"
+506-->[androidx.work:work-runtime:2.7.0-alpha05] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/198a4670c71502de0eaf81961736c5c2/transformed/work-runtime-2.7.0-alpha05/AndroidManifest.xml:112:13-44
+507            android:enabled="false"
+507-->[androidx.work:work-runtime:2.7.0-alpha05] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/198a4670c71502de0eaf81961736c5c2/transformed/work-runtime-2.7.0-alpha05/AndroidManifest.xml:113:13-36
+508            android:exported="false" >
+508-->[androidx.work:work-runtime:2.7.0-alpha05] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/198a4670c71502de0eaf81961736c5c2/transformed/work-runtime-2.7.0-alpha05/AndroidManifest.xml:114:13-37
+509            <intent-filter>
+509-->[androidx.work:work-runtime:2.7.0-alpha05] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/198a4670c71502de0eaf81961736c5c2/transformed/work-runtime-2.7.0-alpha05/AndroidManifest.xml:116:13-120:29
+510                <action android:name="android.intent.action.BOOT_COMPLETED" />
+510-->[androidx.work:work-runtime:2.7.0-alpha05] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/198a4670c71502de0eaf81961736c5c2/transformed/work-runtime-2.7.0-alpha05/AndroidManifest.xml:117:17-79
+510-->[androidx.work:work-runtime:2.7.0-alpha05] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/198a4670c71502de0eaf81961736c5c2/transformed/work-runtime-2.7.0-alpha05/AndroidManifest.xml:117:25-76
+511                <action android:name="android.intent.action.TIME_SET" />
+511-->[androidx.work:work-runtime:2.7.0-alpha05] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/198a4670c71502de0eaf81961736c5c2/transformed/work-runtime-2.7.0-alpha05/AndroidManifest.xml:118:17-73
+511-->[androidx.work:work-runtime:2.7.0-alpha05] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/198a4670c71502de0eaf81961736c5c2/transformed/work-runtime-2.7.0-alpha05/AndroidManifest.xml:118:25-70
+512                <action android:name="android.intent.action.TIMEZONE_CHANGED" />
+512-->[androidx.work:work-runtime:2.7.0-alpha05] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/198a4670c71502de0eaf81961736c5c2/transformed/work-runtime-2.7.0-alpha05/AndroidManifest.xml:119:17-81
+512-->[androidx.work:work-runtime:2.7.0-alpha05] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/198a4670c71502de0eaf81961736c5c2/transformed/work-runtime-2.7.0-alpha05/AndroidManifest.xml:119:25-78
+513            </intent-filter>
+514        </receiver>
+515        <receiver
+515-->[androidx.work:work-runtime:2.7.0-alpha05] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/198a4670c71502de0eaf81961736c5c2/transformed/work-runtime-2.7.0-alpha05/AndroidManifest.xml:122:9-131:20
+516            android:name="androidx.work.impl.background.systemalarm.ConstraintProxyUpdateReceiver"
+516-->[androidx.work:work-runtime:2.7.0-alpha05] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/198a4670c71502de0eaf81961736c5c2/transformed/work-runtime-2.7.0-alpha05/AndroidManifest.xml:123:13-99
+517            android:directBootAware="false"
+517-->[androidx.work:work-runtime:2.7.0-alpha05] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/198a4670c71502de0eaf81961736c5c2/transformed/work-runtime-2.7.0-alpha05/AndroidManifest.xml:124:13-44
+518            android:enabled="@bool/enable_system_alarm_service_default"
+518-->[androidx.work:work-runtime:2.7.0-alpha05] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/198a4670c71502de0eaf81961736c5c2/transformed/work-runtime-2.7.0-alpha05/AndroidManifest.xml:125:13-72
+519            android:exported="false" >
+519-->[androidx.work:work-runtime:2.7.0-alpha05] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/198a4670c71502de0eaf81961736c5c2/transformed/work-runtime-2.7.0-alpha05/AndroidManifest.xml:126:13-37
+520            <intent-filter>
+520-->[androidx.work:work-runtime:2.7.0-alpha05] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/198a4670c71502de0eaf81961736c5c2/transformed/work-runtime-2.7.0-alpha05/AndroidManifest.xml:128:13-130:29
+521                <action android:name="androidx.work.impl.background.systemalarm.UpdateProxies" />
+521-->[androidx.work:work-runtime:2.7.0-alpha05] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/198a4670c71502de0eaf81961736c5c2/transformed/work-runtime-2.7.0-alpha05/AndroidManifest.xml:129:17-98
+521-->[androidx.work:work-runtime:2.7.0-alpha05] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/198a4670c71502de0eaf81961736c5c2/transformed/work-runtime-2.7.0-alpha05/AndroidManifest.xml:129:25-95
+522            </intent-filter>
+523        </receiver>
+524        <receiver
+524-->[androidx.work:work-runtime:2.7.0-alpha05] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/198a4670c71502de0eaf81961736c5c2/transformed/work-runtime-2.7.0-alpha05/AndroidManifest.xml:132:9-142:20
+525            android:name="androidx.work.impl.diagnostics.DiagnosticsReceiver"
+525-->[androidx.work:work-runtime:2.7.0-alpha05] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/198a4670c71502de0eaf81961736c5c2/transformed/work-runtime-2.7.0-alpha05/AndroidManifest.xml:133:13-78
+526            android:directBootAware="false"
+526-->[androidx.work:work-runtime:2.7.0-alpha05] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/198a4670c71502de0eaf81961736c5c2/transformed/work-runtime-2.7.0-alpha05/AndroidManifest.xml:134:13-44
+527            android:enabled="true"
+527-->[androidx.work:work-runtime:2.7.0-alpha05] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/198a4670c71502de0eaf81961736c5c2/transformed/work-runtime-2.7.0-alpha05/AndroidManifest.xml:135:13-35
+528            android:exported="true"
+528-->[androidx.work:work-runtime:2.7.0-alpha05] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/198a4670c71502de0eaf81961736c5c2/transformed/work-runtime-2.7.0-alpha05/AndroidManifest.xml:136:13-36
+529            android:permission="android.permission.DUMP" >
+529-->[androidx.work:work-runtime:2.7.0-alpha05] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/198a4670c71502de0eaf81961736c5c2/transformed/work-runtime-2.7.0-alpha05/AndroidManifest.xml:137:13-57
+530            <intent-filter>
+530-->[androidx.work:work-runtime:2.7.0-alpha05] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/198a4670c71502de0eaf81961736c5c2/transformed/work-runtime-2.7.0-alpha05/AndroidManifest.xml:139:13-141:29
+531                <action android:name="androidx.work.diagnostics.REQUEST_DIAGNOSTICS" />
+531-->[androidx.work:work-runtime:2.7.0-alpha05] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/198a4670c71502de0eaf81961736c5c2/transformed/work-runtime-2.7.0-alpha05/AndroidManifest.xml:140:17-88
+531-->[androidx.work:work-runtime:2.7.0-alpha05] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/198a4670c71502de0eaf81961736c5c2/transformed/work-runtime-2.7.0-alpha05/AndroidManifest.xml:140:25-85
+532            </intent-filter>
+533        </receiver>
+534
+535        <service
+535-->[androidx.room:room-runtime:2.2.5] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/1d6b4165db2b67867b60f53c214cc3ca/transformed/room-runtime-2.2.5/AndroidManifest.xml:25:9-28:40
+536            android:name="androidx.room.MultiInstanceInvalidationService"
+536-->[androidx.room:room-runtime:2.2.5] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/1d6b4165db2b67867b60f53c214cc3ca/transformed/room-runtime-2.2.5/AndroidManifest.xml:26:13-74
+537            android:directBootAware="true"
+537-->[androidx.room:room-runtime:2.2.5] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/1d6b4165db2b67867b60f53c214cc3ca/transformed/room-runtime-2.2.5/AndroidManifest.xml:27:13-43
+538            android:exported="false" />
+538-->[androidx.room:room-runtime:2.2.5] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/1d6b4165db2b67867b60f53c214cc3ca/transformed/room-runtime-2.2.5/AndroidManifest.xml:28:13-37
+539
+540        <activity
+540-->[com.google.android.gms:play-services-base:17.0.0] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/24051f290cd23ca87cd3f2c95b369516/transformed/jetified-play-services-base-17.0.0/AndroidManifest.xml:23:9-26:75
+541            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+541-->[com.google.android.gms:play-services-base:17.0.0] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/24051f290cd23ca87cd3f2c95b369516/transformed/jetified-play-services-base-17.0.0/AndroidManifest.xml:24:13-79
+542            android:exported="false"
+542-->[com.google.android.gms:play-services-base:17.0.0] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/24051f290cd23ca87cd3f2c95b369516/transformed/jetified-play-services-base-17.0.0/AndroidManifest.xml:25:13-37
+543            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+543-->[com.google.android.gms:play-services-base:17.0.0] /data/data/com.itsaky.androidide/files/home/.gradle/caches/transforms-3/24051f290cd23ca87cd3f2c95b369516/transformed/jetified-play-services-base-17.0.0/AndroidManifest.xml:26:13-72
+544    </application>
+545
+546</manifest>

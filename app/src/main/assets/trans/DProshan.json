@@ -1,0 +1,23 @@
+[
+   {
+     "title": "280 MB daily",
+     "price": "30 Afghanis",
+     "info": "280 MB Internet for 1 day for 30 Afghanis. Send D200 to 555 to activate and UD200 to deactivate.",
+     "buttonA": "D200",
+     "buttonD": "UD200"
+   },
+   {
+     "title": "1 GB daily",
+     "price": "50 Afghanis",
+     "info": "1 GB Internet for 1 day for 50 Afghanis. To activate D1 and to deactivate send UD1 to 555.",
+     "buttonA": "D1",
+     "buttonD": "UD1"
+   },
+   {
+     "title": "3 GB daily",
+     "price": "90 Afghani",
+     "info": "3 GB Internet for 1 day at the price of 90 Afghanis. To activate 3GB and to deactivate, send U3GB to 555.",
+     "buttonA": "3GB",
+     "buttonD": "U3GB"
+   }
+ ]

@@ -1,0 +1,58 @@
+[
+ {
+     "title": "1 GB per month",
+     "price": "110 Afghani",
+     "info": "1 GB Internet for 30 days at the price of 110 Afghanis. Send 110 to activate and to deactivate PU 100 to 3378",
+     "buttonA": "110",
+     "buttonD": "PU 110"
+   },
+   {
+     "title": "2.5 GB monthly",
+     "price": "250 Afghani",
+     "info": "2.5 GB of Internet for 30 days at the price of 250 Afghanis. Send 2GB to 3378 to activate and PU 2GB to deactivate",
+     "buttonA": "2GB",
+     "buttonD": "PU 2GB"
+   },
+   {
+     "title": "6+6GB monthly",
+     "price": "499 Afghani",
+     "info": "6GB with 6GB additional internet for 30 days at the price of 499 afghanis. Additional internet can only be used for YouTube from 11:00 PM to 7:00 AM. To activate 4GB and to deactivate PU 4GB, send to 3378  ",
+     "buttonA": "4GB",
+     "buttonD": "PU 4GB"
+   },
+   {
+     "title": "9+9 GB per month",
+     "price": "599 Afghani",
+     "info": "9 GB with 9 GB additional internet for 30 days at the price of 599 Afghanis. Additional internet can only be used for YouTube from 11 pm to 7 am. To activate 599 and to deactivate PU, dial 599 to 3378  Post",
+     "buttonA": "599",
+     "buttonD": "PU 599"
+   },
+   {
+     "title": "13+13GB monthly",
+     "price": "799 Afghani",
+     "info": "13 GB with additional 13 GB of internet for 30 days at the price of 799 afghanis. Additional internet can only be used for YouTube from 11 pm to 7 am. To activate 7GB and to deactivate PU 7GB to 3378  ",
+     "buttonA": "7GB",
+     "buttonD": "PU 7GB"
+   },
+   {
+     "title": "20+20 GB monthly",
+     "price": "999 Afghani",
+     "info": "20 GB with 20 GB additional internet for 30 days at the price of 999 Afghani. Additional internet can only be used for YouTube from 11 pm to 7 am. To activate 10GB and to deactivate PU 10GB to 3378  ",
+     "buttonA": "10GB",
+     "buttonD": "PU 10GB"
+   },
+   {
+     "title": "30+30 GB per month",
+     "price": "1399 Afghani",
+     "info": "30 GB with 30 GB additional internet for 30 days at the price of 1,399 Afghanis. Additional internet can only be used for YouTube from 11:00 PM to 7:00 AM. To activate 1399 and to deactivate PU 1399 to 3378 ",
+     "buttonA": "1399",
+     "buttonD": "PU 1399"
+   },
+   {
+     "title": "20 GB 3 months",
+     "price": "1999 Afghani",
+     "info": "20 GB of Internet for 90 days at the price of 1999 Afghanis. To activate 25GB and to deactivate send PU25GB to 3378",
+     "buttonA": "25GB",
+     "buttonD": "PU25GB"
+   }
+ ]

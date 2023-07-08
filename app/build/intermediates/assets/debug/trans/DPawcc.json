@@ -1,0 +1,44 @@
+[
+   {
+     "title": "95 MB daily",
+     "price": "10 Afghani",
+     "info": "95 MB Internet for 1 day for 10 Afghanis. Press the green button to activate and the red button to deactivate. Dial *477*1*1# to activate.",
+     "buttonA": "*477*1*1#",
+     "buttonD": "*477*1*2#"
+   },
+   {
+     "title": "200 MB daily",
+     "price": "15 Afghanis",
+     "info": "200 MB of Internet for 1 day at the price of 15 Afghanis. To activate, press the green button and to deactivate, press the red button. To activate, dial *477*15*1#.",
+     "buttonA": "*477*15*1#",
+     "buttonD": "*477*15*2#"
+   },
+   {
+     "title": "400 MB daily",
+     "price": "30 Afghanis",
+     "info": "400 MB of Internet for 1 day at the price of 30 Afghanis. To activate, press the green button and to deactivate, press the red button. To activate, dial *477*2*1#.",
+     "buttonA": "*477*2*1#",
+     "buttonD": "*477*2*2#"
+   },
+   {
+     "title": "1 GB daily",
+     "price": "50 Afghanis",
+     "info": "1 GB Internet for 1 day for 50 Afghanis. Press the green button to activate and the red button to deactivate. Dial *477*50*1# to activate.",
+     "buttonA": "*477*50*1#",
+     "buttonD": "*477*50*2#"
+   },
+   {
+     "title": "2 GB daily",
+     "price": "50 Afghanis",
+     "info": "2 GB Internet for 1 day at the price of 77 Afghani. Press the green button to activate and the red button to deactivate. Dial *477*77*1# to activate.",
+     "buttonA": "*477*77*1#",
+     "buttonD": "*477*77*2#"
+   },
+   {
+     "title": "3 GB daily",
+     "price": "99 Afghani",
+     "info": "3GB of Internet for 1 day at the price of 99 Afghanis. Press the green button to activate and the red button to deactivate. Dial *477*99*1# to activate.",
+     "buttonA": "*477*99*1#",
+     "buttonD": "*477*99*2#"
+   }
+ ]

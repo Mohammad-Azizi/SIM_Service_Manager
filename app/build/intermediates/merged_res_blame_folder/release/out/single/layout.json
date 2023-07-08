@@ -1,0 +1,182 @@
+[
+    {
+        "merged": "com.afghanistan.simcards.app-mergeReleaseResources-35:/layout/about.xml",
+        "source": "com.afghanistan.simcards.app-main-37:/layout/about.xml"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-mergeReleaseResources-35:/layout/sallmess.xml",
+        "source": "com.afghanistan.simcards.app-main-37:/layout/sallmess.xml"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-mergeReleaseResources-35:/layout/etimess.xml",
+        "source": "com.afghanistan.simcards.app-main-37:/layout/etimess.xml"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-mergeReleaseResources-35:/layout/afgsett.xml",
+        "source": "com.afghanistan.simcards.app-main-37:/layout/afgsett.xml"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-mergeReleaseResources-35:/layout/salinter.xml",
+        "source": "com.afghanistan.simcards.app-main-37:/layout/salinter.xml"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-mergeReleaseResources-35:/layout/afghan1page.xml",
+        "source": "com.afghanistan.simcards.app-main-37:/layout/afghan1page.xml"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-mergeReleaseResources-35:/layout/mtnsett.xml",
+        "source": "com.afghanistan.simcards.app-main-37:/layout/mtnsett.xml"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-mergeReleaseResources-35:/layout/_drawer_home.xml",
+        "source": "com.afghanistan.simcards.app-main-37:/layout/_drawer_home.xml"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-mergeReleaseResources-35:/layout/mtnjnter.xml",
+        "source": "com.afghanistan.simcards.app-main-37:/layout/mtnjnter.xml"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-mergeReleaseResources-35:/layout/sallcall.xml",
+        "source": "com.afghanistan.simcards.app-main-37:/layout/sallcall.xml"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-mergeReleaseResources-35:/layout/afgmessage.xml",
+        "source": "com.afghanistan.simcards.app-main-37:/layout/afgmessage.xml"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-mergeReleaseResources-35:/layout/salaam1page.xml",
+        "source": "com.afghanistan.simcards.app-main-37:/layout/salaam1page.xml"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-mergeReleaseResources-35:/layout/main.xml",
+        "source": "com.afghanistan.simcards.app-main-37:/layout/main.xml"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-mergeReleaseResources-35:/layout/debug.xml",
+        "source": "com.afghanistan.simcards.app-main-37:/layout/debug.xml"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-mergeReleaseResources-35:/layout/etisett.xml",
+        "source": "com.afghanistan.simcards.app-main-37:/layout/etisett.xml"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-mergeReleaseResources-35:/layout/roshan1page.xml",
+        "source": "com.afghanistan.simcards.app-main-37:/layout/roshan1page.xml"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-mergeReleaseResources-35:/layout/roshcall.xml",
+        "source": "com.afghanistan.simcards.app-main-37:/layout/roshcall.xml"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-mergeReleaseResources-35:/layout/forpackage.xml",
+        "source": "com.afghanistan.simcards.app-main-37:/layout/forpackage.xml"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-mergeReleaseResources-35:/layout/mtn1page.xml",
+        "source": "com.afghanistan.simcards.app-main-37:/layout/mtn1page.xml"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-mergeReleaseResources-35:/layout/post1.xml",
+        "source": "com.afghanistan.simcards.app-main-37:/layout/post1.xml"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-mergeReleaseResources-35:/layout/salaamdatapage.xml",
+        "source": "com.afghanistan.simcards.app-main-37:/layout/salaamdatapage.xml"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-mergeReleaseResources-35:/layout/packagesm.xml",
+        "source": "com.afghanistan.simcards.app-main-37:/layout/packagesm.xml"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-mergeReleaseResources-35:/layout/roshsett.xml",
+        "source": "com.afghanistan.simcards.app-main-37:/layout/roshsett.xml"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-mergeReleaseResources-35:/layout/etisalat1page.xml",
+        "source": "com.afghanistan.simcards.app-main-37:/layout/etisalat1page.xml"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-mergeReleaseResources-35:/layout/mtmess.xml",
+        "source": "com.afghanistan.simcards.app-main-37:/layout/mtmess.xml"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-mergeReleaseResources-35:/layout/etiinter.xml",
+        "source": "com.afghanistan.simcards.app-main-37:/layout/etiinter.xml"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-mergeReleaseResources-35:/layout/afgdatapage1.xml",
+        "source": "com.afghanistan.simcards.app-main-37:/layout/afgdatapage1.xml"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-mergeReleaseResources-35:/layout/etid1.xml",
+        "source": "com.afghanistan.simcards.app-main-37:/layout/etid1.xml"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-mergeReleaseResources-35:/layout/bund.xml",
+        "source": "com.afghanistan.simcards.app-main-37:/layout/bund.xml"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-mergeReleaseResources-35:/layout/roshmess.xml",
+        "source": "com.afghanistan.simcards.app-main-37:/layout/roshmess.xml"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-mergeReleaseResources-35:/layout/empty.xml",
+        "source": "com.afghanistan.simcards.app-main-37:/layout/empty.xml"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-mergeReleaseResources-35:/layout/mtd1.xml",
+        "source": "com.afghanistan.simcards.app-main-37:/layout/mtd1.xml"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-mergeReleaseResources-35:/layout/bundle.xml",
+        "source": "com.afghanistan.simcards.app-main-37:/layout/bundle.xml"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-mergeReleaseResources-35:/layout/afgme.xml",
+        "source": "com.afghanistan.simcards.app-main-37:/layout/afgme.xml"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-mergeReleaseResources-35:/layout/shimmer.xml",
+        "source": "com.afghanistan.simcards.app-main-37:/layout/shimmer.xml"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-mergeReleaseResources-35:/layout/roshinter.xml",
+        "source": "com.afghanistan.simcards.app-main-37:/layout/roshinter.xml"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-mergeReleaseResources-35:/layout/afginter.xml",
+        "source": "com.afghanistan.simcards.app-main-37:/layout/afginter.xml"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-mergeReleaseResources-35:/layout/cust.xml",
+        "source": "com.afghanistan.simcards.app-main-37:/layout/cust.xml"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-mergeReleaseResources-35:/layout/eticall.xml",
+        "source": "com.afghanistan.simcards.app-main-37:/layout/eticall.xml"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-mergeReleaseResources-35:/layout/home.xml",
+        "source": "com.afghanistan.simcards.app-main-37:/layout/home.xml"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-mergeReleaseResources-35:/layout/post.xml",
+        "source": "com.afghanistan.simcards.app-main-37:/layout/post.xml"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-mergeReleaseResources-35:/layout/update.xml",
+        "source": "com.afghanistan.simcards.app-main-37:/layout/update.xml"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-mergeReleaseResources-35:/layout/mtcall.xml",
+        "source": "com.afghanistan.simcards.app-main-37:/layout/mtcall.xml"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-mergeReleaseResources-35:/layout/rosd1.xml",
+        "source": "com.afghanistan.simcards.app-main-37:/layout/rosd1.xml"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-mergeReleaseResources-35:/layout/sallsett.xml",
+        "source": "com.afghanistan.simcards.app-main-37:/layout/sallsett.xml"
+    }
+]

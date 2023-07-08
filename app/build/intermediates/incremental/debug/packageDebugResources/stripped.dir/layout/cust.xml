@@ -1,0 +1,126 @@
+<LinearLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res-auto"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:orientation="vertical">
+	<LinearLayout
+		android:id="@+id/linear1"
+		android:layout_width="match_parent"
+		android:layout_height="match_parent"
+		android:padding="8dp"
+		android:gravity="center_horizontal|center_vertical"
+		android:orientation="horizontal">
+		<LinearLayout
+			android:id="@+id/linear2"
+			android:layout_width="300dp"
+			android:layout_height="wrap_content"
+			android:padding="8dp"
+			android:background="#FFFFFF"
+			android:gravity="center_horizontal|center_vertical"
+			android:orientation="vertical"
+			android:layout_gravity="right|center_vertical">
+			<TextView
+				android:id="@+id/text_title"
+				android:focusable="false"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:padding="8dp"
+				android:text="@string/rate_info"
+				android:textSize="18sp"
+				android:textStyle="bold"
+				android:textColor="#4CAF50" />
+			<LinearLayout
+				android:id="@+id/linear4"
+				android:layout_width="match_parent"
+				android:layout_height="60dp"
+				android:padding="8dp"
+				android:background="#FFFFFF"
+				android:gravity="center_horizontal|center_vertical"
+				android:orientation="horizontal"
+				android:layout_gravity="center_horizontal|center_vertical">
+				<ImageView
+					android:id="@+id/im1"
+					android:focusable="false"
+					android:layout_width="50dp"
+					android:layout_height="60dp"
+					android:src="@drawable/bae"
+					android:scaleType="center" />
+				<ImageView
+					android:id="@+id/im2"
+					android:focusable="false"
+					android:layout_width="50dp"
+					android:layout_height="50dp"
+					android:src="@drawable/baf"
+					android:scaleType="center" />
+				<ImageView
+					android:id="@+id/im3"
+					android:focusable="false"
+					android:layout_width="50dp"
+					android:layout_height="50dp"
+					android:src="@drawable/bag"
+					android:scaleType="center" />
+				<ImageView
+					android:id="@+id/im4"
+					android:focusable="false"
+					android:layout_width="50dp"
+					android:layout_height="50dp"
+					android:src="@drawable/bah"
+					android:scaleType="center" />
+				<ImageView
+					android:id="@+id/im5"
+					android:focusable="false"
+					android:layout_width="50dp"
+					android:layout_height="50dp"
+					android:src="@drawable/bai"
+					android:scaleType="center" />
+			</LinearLayout>
+			<TextView
+				android:id="@+id/text_info"
+				android:focusable="false"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:padding="8dp"
+				android:gravity="center_horizontal|center_vertical"
+				android:text="Your rating well help us to do better."
+				android:textSize="12sp"
+				android:textColor="#9E9E9E" />
+			<EditText
+				android:id="@+id/edit"
+				android:layout_width="180dp"
+				android:layout_height="wrap_content"
+				android:padding="8dp"
+				android:gravity="center_horizontal|center_vertical"
+				android:textSize="12sp"
+				android:textColor="#000000"
+				android:hint="Write Your Feedback"
+				android:textColorHint="#607D8B"
+				android:imeOptions="actionSend"
+				android:focusableInTouchMode="true"
+				android:cursorVisible="true"
+				android:focusable="true" />
+			<LinearLayout
+				android:id="@+id/linear5"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:padding="8dp"
+				android:gravity="center_horizontal|center_vertical"
+				android:orientation="vertical">
+				<com.google.android.material.button.MaterialButton
+					android:id="@+id/mbutton"
+					android:layout_width="match_parent"
+					android:layout_height="wrap_content"
+					android:padding="8dp"
+					android:background="#008DCD"
+					android:gravity="center_horizontal|center_vertical"
+					android:text="OK"
+					android:textSize="16sp"
+					android:textStyle="bold"
+					android:textColor="#FFFFFF"
+					android:textAppearance="@style/TextAppearance.MaterialComponents.Button"
+					style="@style/Widget.MaterialComponents.Button" />
+			</LinearLayout>
+		</LinearLayout>
+	</LinearLayout>
+</LinearLayout>

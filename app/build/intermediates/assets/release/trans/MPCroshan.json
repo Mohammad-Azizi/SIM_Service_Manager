@@ -1,0 +1,25 @@
+[{
+	"buttonD": "D120",
+	"price": "120 Afghanis ",
+	"title": "400 minutes monthly ",
+	"buttonA": "120",
+	"info": "400 minutes for 30 days  For the price of 120 Afghanis. \r\nPress the green button to activate and the red button to deactivate. \nSend 120 to activate and d120 to 555 to deactivate"
+}, {
+	"buttonD": "D220",
+	"price": "200 Afghanis",
+	"title": "1000 minutes per month ",
+	"buttonA": "220",
+	"info": "1000 minutes on Roshan for 30 days at the price of 200 Afghanis Press the green button to activate and the red button to deactivate. Along with unlimited messages \nTo activate 220 and to deactivate send d220 to 555"
+}, {
+	"buttonD": "D225",
+	"price": "225 Afghanis ",
+	"title": "1500 minutes monthly ",
+	"buttonA": "225",
+	"info": "1500 minutes on Roshan for 30 days at the price of 225 Afghanis. \r\nTo activate  Press the green button and press the red button to deactivate.\nSend 225 to activate and send d225 to 555 to deactivate"
+}, {
+	"buttonD": "D499",
+	"price": "470 Afghani ",
+	"title": "5000 minutes monthly ",
+	"buttonA": "499",
+	"info": "150  0 minutes to Roshan for 30 days at the price of 470 Afghanis.  \r\nPress the green button to activate and the red button to deactivate.  Along with unlimited messages \nfor activation send 499 and for deactivation send d499 to 555"
+}]

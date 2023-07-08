@@ -1,0 +1,67 @@
+plugins {
+    id 'com.android.application'
+}
+
+android {
+    namespace 'com.afghanistan.simcards'
+    compileSdkVersion 33
+    buildToolsVersion "33.0.0"
+
+    defaultConfig {
+        applicationId "com.afghanistan.simcards"
+        minSdkVersion 22
+        targetSdkVersion 33
+        versionCode 19
+        versionName "5.0.2"
+        vectorDrawables.useSupportLibrary true
+        multiDexEnabled true
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+    }
+
+    buildTypes {
+        release {
+           
+        }
+    }
+    
+    
+    bundle {
+        language {
+            enableSplit = false
+        }
+    }
+    buildFeatures{
+        viewBinding true
+        buildConfig true
+        renderScript true
+        aidl true
+        
+    }
+    
+    signingConfigs {
+    release {
+        storeFile file("my2.p12")
+        storePassword 'debugging'
+        keyAlias 'debugging'
+        keyPassword 'debugging'
+    }
+        }
+}
+
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+    implementation 'androidx.appcompat:appcompat:1.4.0'
+    implementation 'com.google.android.material:material:1.5.0'
+    implementation 'com.google.firebase:firebase-database:19.0.0'
+    implementation 'com.google.firebase:firebase-storage:19.0.0'
+    implementation 'com.google.android.gms:play-services-ads:20.1.0'
+    implementation 'com.github.bumptech.glide:glide:4.12.0'
+    implementation 'com.google.code.gson:gson:2.8.7'
+    implementation 'com.airbnb.android:lottie:4.2.0'
+    implementation 'com.squareup.okhttp3:okhttp:3.9.1'
+    implementation 'com.sdsmdg.tastytoast:tastytoast:0.1.1'
+    implementation 'com.facebook.shimmer:shimmer:0.5.0'
+    implementation 'io.github.shashank02051997:FancyToast:2.0.2'
+    implementation 'androidx.work:work-runtime:2.7.0-alpha05'
+    implementation 'androidx.multidex:multidex:2.0.1'
+}

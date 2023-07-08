@@ -1,0 +1,65 @@
+[
+   {
+     "title": "1 GB per month",
+     "price": "110 Afghani",
+     "info": "1GB Internet for 30 days at the price of 110 Afghanis. To activate 1GB and to deactivate send U1GB to 555.",
+     "buttonA": "1GB",
+     "buttonD": "U1GB"
+   },
+   {
+     "title": "2GB per month",
+     "price": "220 Afghani",
+     "info": "2 GB Internet for 30 days at the price of 220 Afghanis. Send M1 to 555 to activate and UM1 to deactivate.",
+     "buttonA": "M1",
+     "buttonD": "UM1"
+   },
+   {
+     "title": "3.2 GB monthly",
+     "price": "330 Afghani",
+     "info": "3.2GB of Internet for 30 days at the price of 330 Afghanis. To activate M2 and to deactivate send UM2 to 555.",
+     "buttonA": "M2",
+     "buttonD": "UM2"
+   },
+   {
+     "title": "4.5 GB monthly",
+     "price": "440 Afghani",
+     "info": "4.5 GB Internet for 30 days at the price of 440 Afghanis. To activate M3 and to deactivate send UM3 to 555.",
+     "buttonA": "M3",
+     "buttonD": "UM3"
+   },
+   {
+     "title": "6 GB per month",
+     "price": "540 Afghani",
+     "info": "6 GB Internet for 30 days at the price of 540 Afghanis. Send 5 to activate and U5 to 555 to deactivate.",
+     "buttonA": "5",
+     "buttonD": "U5"
+   },
+   {
+     "title": "10.5 GB per month",
+     "price": "600 Afghani",
+     "info": "10.5 GB of Internet for 30 days at the price of 540 Afghanis. Send R10 to activate and UR10 to deactivate to 555.",
+     "buttonA": "R10",
+     "buttonD": "UR10"
+   },
+   {
+     "title": "16 GB monthly",
+     "price": "900 Afghanis",
+     "info": "16 GB Internet for 30 days at the price of 900 Afghanis. To activate SM9 and to deactivate USM9, send to 555.",
+     "buttonA": "SM9",
+     "buttonD": "USM9"
+   },
+   {
+     "title": "20 GB per month",
+     "price": "999 Afghani",
+     "info": "20 GB Internet for 30 days at the price of 999 Afghanis. Send R20 to activate and UR20 to deactivate to 555.",
+     "buttonA": "R20",
+     "buttonD": "UR20"
+   },
+   {
+     "title": "40 GB monthly",
+     "price": "1999 Afghani",
+     "info": "40 GB Internet for 30 days at the price of 1999 Afghanis. To activate 40GB and to deactivate send U40GB to 555.",
+     "buttonA": "40GB",
+     "buttonD": "U40GB"
+   }
+ ]

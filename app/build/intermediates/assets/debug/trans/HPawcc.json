@@ -1,0 +1,23 @@
+[
+   {
+     "title": "512 MB hourly",
+     "price": "12 Afghanis",
+     "info": "512 MB of Internet for 1 hour at the price of 12 Afghanis. Press the green button to activate and the red button to deactivate. Dial *477*512*1# to activate.",
+     "buttonA": "*477*512*1#",
+     "buttonD": "*477*512*2#"
+   },
+   {
+     "title": "1GB hourly",
+     "price": "20 Afghanis",
+     "info": "1 GB of Internet for 1 hour at the price of 20 Afghanis. Press the green button to activate and the red button to deactivate. Dial *477*21*1# to activate.",
+     "buttonA": "*477*21*1#",
+     "buttonD": "*477*21*2#"
+   },
+   {
+     "title": "700 MB hourly",
+     "price": "15 Afghanis",
+     "info": "700 MB of Internet for 1 hour at the price of 15 Afghanis. Press the green button to activate and the red button to deactivate. Dial *477*14*1# to activate.",
+     "buttonA": "*477*14*1#",
+     "buttonD": ""
+   }
+]

@@ -1,0 +1,51 @@
+[
+   {
+     "title": "90 MB daily",
+     "price": "9 Afghanis",
+     "info": "90 MB of Internet for 1 day at the price of 9 Afghanis. Only for Facebook. To activate DFB and to deactivate UDFB, send to 555.",
+     "buttonA": "DFB",
+     "buttonD": "UDFB"
+   },
+   {
+     "title": "200 MB daily",
+     "price": "15 Afghani",
+     "info": "200 MB of Internet for 1 day at the price of 15 Afghanis. Only for Facebook. Send S6 to 555 to activate and U6 to deactivate.",
+     "buttonA": "S6",
+     "buttonD": "U6"
+   },
+   {
+     "title": "450 MB per month",
+     "price": "45 Afghanis",
+     "info": "450 MB of Internet for 30 days at the price of 45 Afghanis. Only for Facebook. To activate FB50 and to deactivate UYFB, send to 555.",
+     "buttonA": "FB50",
+     "buttonD": "UYFB"
+   },
+   {
+     "title": "650 MB per month",
+     "price": "65 Afghanis",
+     "info": "650 MB of Internet for 30 days at the price of 65 Afghanis. Only for Facebook. To activate FB A and to deactivate FB D to 555.",
+     "buttonA": "FB A",
+     "buttonD": "FB D"
+   },
+   {
+     "title": "850 MB per month",
+     "price": "90 Afghani",
+     "info": "850 MB Internet for 30 days at the price of 90 Afghanis. Only for Facebook. Send S100 to 555 to activate and U100 to deactivate.",
+     "buttonA": "S100",
+     "buttonD": "U100"
+   },
+   {
+     "title": "1.9 GB per month",
+     "price": "199 Afghani",
+     "info": "1.9 GB of Internet for 30 days at the price of 199 Afghanis. Only for Facebook. Send S199 to activate and U199 to 555 to deactivate.",
+     "buttonA": "S199",
+     "buttonD": "U199"
+   },
+   {
+     "title": "3GB per month",
+     "price": "299 Afghani",
+     "info": "3 GB Internet for 30 days at the price of 299 Afghanis. Only for Facebook. Send S299 to activate and U299 to 555 to deactivate.",
+     "buttonA": "S299",
+     "buttonD": "U299"
+   }
+ ]

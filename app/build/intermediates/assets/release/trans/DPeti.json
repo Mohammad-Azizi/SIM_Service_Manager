@@ -1,0 +1,30 @@
+[
+   {
+     "title": "200 MB daily",
+     "price": "15 Afghanis",
+     "info": "200 MB of Internet for 1 day at the price of 15 Afghanis. To activate D200 and to deactivate send PUD200 to 3378",
+     "buttonA": "D200",
+     "buttonD": "PUD200"
+   },
+   {
+     "title": "400 MB daily",
+     "price": "30 Afghani",
+     "info": "400 MB Internet for 1 day at the price of 30 Afghanis. To activate D400 and to deactivate PU D400 to 3378",
+     "buttonA": "D400",
+     "buttonD": "PU D400"
+   },
+   {
+     "title": "1 GB daily",
+     "price": "50 Afghanis",
+     "info": "1 GB internet for 1 day for 50 afghan. To activate D50 and to deactivate send PUD50 to 3378",
+     "buttonA": "D50",
+     "buttonD": "PUD50"
+   },
+   {
+     "title": "2 GB daily",
+     "price": "77 Afghani",
+     "info": "2 GB Internet for 1 day at the price of 77 Afghanis. To activate D2 and to deactivate PU D2 to 3378",
+     "buttonA": "D2",
+     "buttonD": "PU D2"
+   }
+ ]

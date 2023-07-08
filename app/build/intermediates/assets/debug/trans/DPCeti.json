@@ -1,0 +1,30 @@
+[
+   {
+     "title": "50 minutes daily",
+     "price": "15 Afghanis",
+     "info": "50 minutes of calls for 1 day at the price of 15 Afghanis. To activate 801 and to deactivate send PU801 to 3378.",
+     "buttonA": "801",
+     "buttonD": "UD801"
+   },
+   {
+     "title": "100 minutes daily",
+     "price": "25 Afghanis",
+     "info": "100 minutes of calls for 1 day at the price of 25 Afghanis. Send 900 to activate and PU900 to 3378.",
+     "buttonA": "900",
+     "buttonD": "UD900"
+   },
+   {
+     "title": "125 minutes daily",
+     "price": "40 Afghanis",
+     "info": "125 minutes of calls for 1 day at the price of 40 Afghanis. Send 700 to activate and PU700 to 3378 to deactivate.",
+     "buttonA": "700",
+     "buttonD": "UD700"
+   },
+   {
+     "title": "125 minutes daily",
+     "price": "40 Afghanis",
+     "info": "125 minutes of calls for 1 day at the price of 40 Afghanis. Send 700 to activate and PU700 to 3378 to deactivate.",
+     "buttonA": "700",
+     "buttonD": "UD700"
+   }
+ ]

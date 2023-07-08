@@ -1,0 +1,16 @@
+[
+   {
+     "title": "1 GB nightly",
+     "price": "25 Afghanis",
+     "info": "1 GB Internet for 1 night at the price of 25 Afghanis. To activate, press the green button and to deactivate, press the red button. To activate, dial *344*41#.",
+     "buttonA": "*344*41#",
+     "buttonD": "D"
+   },
+   {
+     "title": "10 GB nightly",
+     "price": "200 Afghani",
+     "info": "10 GB Internet for 30 nights at the price of 200 Afghanis. To activate, press the green button and to deactivate, press the red button. To activate, dial *344*42#.",
+     "buttonA": "*344*42#",
+     "buttonD": "D"
+   }
+ ]

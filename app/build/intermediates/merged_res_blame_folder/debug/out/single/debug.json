@@ -1,0 +1,438 @@
+[
+    {
+        "merged": "com.afghanistan.simcards.app-merged_res-36:/layout_roshcall.xml.flat",
+        "source": "com.afghanistan.simcards.app-main-38:/layout/roshcall.xml"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-merged_res-36:/drawable-xhdpi_dactive.png.flat",
+        "source": "com.afghanistan.simcards.app-main-38:/drawable-xhdpi/dactive.png"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-merged_res-36:/drawable-xhdpi_jhh.png.flat",
+        "source": "com.afghanistan.simcards.app-main-38:/drawable-xhdpi/jhh.png"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-merged_res-36:/drawable-xhdpi_urtt.png.flat",
+        "source": "com.afghanistan.simcards.app-main-38:/drawable-xhdpi/urtt.png"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-merged_res-36:/drawable-xhdpi_yji_2_5.png.flat",
+        "source": "com.afghanistan.simcards.app-main-38:/drawable-xhdpi/yji_2_5.png"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-merged_res-36:/drawable-xhdpi_view_more.png.flat",
+        "source": "com.afghanistan.simcards.app-main-38:/drawable-xhdpi/view_more.png"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-merged_res-36:/drawable-xhdpi_src_img_earth_2.png.flat",
+        "source": "com.afghanistan.simcards.app-main-38:/drawable-xhdpi/src_img_earth_2.png"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-merged_res-36:/drawable-xhdpi_share.png.flat",
+        "source": "com.afghanistan.simcards.app-main-38:/drawable-xhdpi/share.png"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-merged_res-36:/drawable-xhdpi_twotone_keyboard_arrow_down_black_48dp.png.flat",
+        "source": "com.afghanistan.simcards.app-main-38:/drawable-xhdpi/twotone_keyboard_arrow_down_black_48dp.png"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-merged_res-36:/drawable-xhdpi_settings_1.png.flat",
+        "source": "com.afghanistan.simcards.app-main-38:/drawable-xhdpi/settings_1.png"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-merged_res-36:/layout_update.xml.flat",
+        "source": "com.afghanistan.simcards.app-main-38:/layout/update.xml"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-merged_res-36:/drawable-xhdpi_bac.png.flat",
+        "source": "com.afghanistan.simcards.app-main-38:/drawable-xhdpi/bac.png"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-merged_res-36:/layout_packagesm.xml.flat",
+        "source": "com.afghanistan.simcards.app-main-38:/layout/packagesm.xml"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-merged_res-36:/layout_mtn1page.xml.flat",
+        "source": "com.afghanistan.simcards.app-main-38:/layout/mtn1page.xml"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-merged_res-36:/drawable-xhdpi_src_img_phone.png.flat",
+        "source": "com.afghanistan.simcards.app-main-38:/drawable-xhdpi/src_img_phone.png"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-merged_res-36:/drawable-xhdpi_jfgnn.png.flat",
+        "source": "com.afghanistan.simcards.app-main-38:/drawable-xhdpi/jfgnn.png"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-merged_res-36:/drawable-xhdpi_ic_info_white.png.flat",
+        "source": "com.afghanistan.simcards.app-main-38:/drawable-xhdpi/ic_info_white.png"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-merged_res-36:/drawable-xhdpi_ba9.png.flat",
+        "source": "com.afghanistan.simcards.app-main-38:/drawable-xhdpi/ba9.png"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-merged_res-36:/drawable-xhdpi_src_img_earth_3.png.flat",
+        "source": "com.afghanistan.simcards.app-main-38:/drawable-xhdpi/src_img_earth_3.png"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-merged_res-36:/font_fina.ttf.flat",
+        "source": "com.afghanistan.simcards.app-main-38:/font/fina.ttf"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-merged_res-36:/drawable-xhdpi_youtube.png.flat",
+        "source": "com.afghanistan.simcards.app-main-38:/drawable-xhdpi/youtube.png"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-merged_res-36:/layout_mtd1.xml.flat",
+        "source": "com.afghanistan.simcards.app-main-38:/layout/mtd1.xml"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-merged_res-36:/drawable-xhdpi_newmessage_1.png.flat",
+        "source": "com.afghanistan.simcards.app-main-38:/drawable-xhdpi/newmessage_1.png"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-merged_res-36:/layout_mtnjnter.xml.flat",
+        "source": "com.afghanistan.simcards.app-main-38:/layout/mtnjnter.xml"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-merged_res-36:/drawable-xhdpi_bab.png.flat",
+        "source": "com.afghanistan.simcards.app-main-38:/drawable-xhdpi/bab.png"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-merged_res-36:/drawable-xhdpi_bai.png.flat",
+        "source": "com.afghanistan.simcards.app-main-38:/drawable-xhdpi/bai.png"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-merged_res-36:/layout_main.xml.flat",
+        "source": "com.afghanistan.simcards.app-main-38:/layout/main.xml"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-merged_res-36:/drawable-xhdpi_settings_2.png.flat",
+        "source": "com.afghanistan.simcards.app-main-38:/drawable-xhdpi/settings_2.png"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-merged_res-36:/drawable-xhdpi_rate.png.flat",
+        "source": "com.afghanistan.simcards.app-main-38:/drawable-xhdpi/rate.png"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-merged_res-36:/drawable-xhdpi_jhffg.png.flat",
+        "source": "com.afghanistan.simcards.app-main-38:/drawable-xhdpi/jhffg.png"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-merged_res-36:/layout_rosd1.xml.flat",
+        "source": "com.afghanistan.simcards.app-main-38:/layout/rosd1.xml"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-merged_res-36:/drawable-xhdpi_bae.png.flat",
+        "source": "com.afghanistan.simcards.app-main-38:/drawable-xhdpi/bae.png"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-merged_res-36:/drawable-xhdpi_fixed.png.flat",
+        "source": "com.afghanistan.simcards.app-main-38:/drawable-xhdpi/fixed.png"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-merged_res-36:/drawable-xhdpi_newmessage_2.png.flat",
+        "source": "com.afghanistan.simcards.app-main-38:/drawable-xhdpi/newmessage_2.png"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-merged_res-36:/layout_roshan1page.xml.flat",
+        "source": "com.afghanistan.simcards.app-main-38:/layout/roshan1page.xml"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-merged_res-36:/layout_bundle.xml.flat",
+        "source": "com.afghanistan.simcards.app-main-38:/layout/bundle.xml"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-merged_res-36:/layout_about.xml.flat",
+        "source": "com.afghanistan.simcards.app-main-38:/layout/about.xml"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-merged_res-36:/layout_mtmess.xml.flat",
+        "source": "com.afghanistan.simcards.app-main-38:/layout/mtmess.xml"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-merged_res-36:/drawable-xhdpi_dontate.png.flat",
+        "source": "com.afghanistan.simcards.app-main-38:/drawable-xhdpi/dontate.png"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-merged_res-36:/drawable-xhdpi_international.png.flat",
+        "source": "com.afghanistan.simcards.app-main-38:/drawable-xhdpi/international.png"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-merged_res-36:/layout_empty.xml.flat",
+        "source": "com.afghanistan.simcards.app-main-38:/layout/empty.xml"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-merged_res-36:/drawable-xhdpi_info.png.flat",
+        "source": "com.afghanistan.simcards.app-main-38:/drawable-xhdpi/info.png"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-merged_res-36:/drawable-xhdpi_default_image.png.flat",
+        "source": "com.afghanistan.simcards.app-main-38:/drawable-xhdpi/default_image.png"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-merged_res-36:/drawable-xhdpi_baseline_keyboard_arrow_up_black_48dp.png.flat",
+        "source": "com.afghanistan.simcards.app-main-38:/drawable-xhdpi/baseline_keyboard_arrow_up_black_48dp.png"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-merged_res-36:/drawable-xhdpi_internet.png.flat",
+        "source": "com.afghanistan.simcards.app-main-38:/drawable-xhdpi/internet.png"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-merged_res-36:/drawable-xhdpi_bah.png.flat",
+        "source": "com.afghanistan.simcards.app-main-38:/drawable-xhdpi/bah.png"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-merged_res-36:/layout_debug.xml.flat",
+        "source": "com.afghanistan.simcards.app-main-38:/layout/debug.xml"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-merged_res-36:/drawable-xhdpi_src_img_earth_5.png.flat",
+        "source": "com.afghanistan.simcards.app-main-38:/drawable-xhdpi/src_img_earth_5.png"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-merged_res-36:/drawable-xhdpi_wuuwuwdd.png.flat",
+        "source": "com.afghanistan.simcards.app-main-38:/drawable-xhdpi/wuuwuwdd.png"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-merged_res-36:/drawable-xhdpi_active.png.flat",
+        "source": "com.afghanistan.simcards.app-main-38:/drawable-xhdpi/active.png"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-merged_res-36:/layout_shimmer.xml.flat",
+        "source": "com.afghanistan.simcards.app-main-38:/layout/shimmer.xml"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-merged_res-36:/drawable-xhdpi_telegram.png.flat",
+        "source": "com.afghanistan.simcards.app-main-38:/drawable-xhdpi/telegram.png"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-merged_res-36:/drawable-xhdpi_wuuwuw.png.flat",
+        "source": "com.afghanistan.simcards.app-main-38:/drawable-xhdpi/wuuwuw.png"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-merged_res-36:/layout_mtnsett.xml.flat",
+        "source": "com.afghanistan.simcards.app-main-38:/layout/mtnsett.xml"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-merged_res-36:/layout_sallsett.xml.flat",
+        "source": "com.afghanistan.simcards.app-main-38:/layout/sallsett.xml"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-merged_res-36:/drawable-xhdpi_settings_3.png.flat",
+        "source": "com.afghanistan.simcards.app-main-38:/drawable-xhdpi/settings_3.png"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-merged_res-36:/drawable-xhdpi_yji_2_4.png.flat",
+        "source": "com.afghanistan.simcards.app-main-38:/drawable-xhdpi/yji_2_4.png"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-merged_res-36:/layout_forpackage.xml.flat",
+        "source": "com.afghanistan.simcards.app-main-38:/layout/forpackage.xml"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-merged_res-36:/layout_afgmessage.xml.flat",
+        "source": "com.afghanistan.simcards.app-main-38:/layout/afgmessage.xml"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-merged_res-36:/layout_mtcall.xml.flat",
+        "source": "com.afghanistan.simcards.app-main-38:/layout/mtcall.xml"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-merged_res-36:/layout_afginter.xml.flat",
+        "source": "com.afghanistan.simcards.app-main-38:/layout/afginter.xml"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-merged_res-36:/layout_etisett.xml.flat",
+        "source": "com.afghanistan.simcards.app-main-38:/layout/etisett.xml"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-merged_res-36:/layout_afgsett.xml.flat",
+        "source": "com.afghanistan.simcards.app-main-38:/layout/afgsett.xml"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-merged_res-36:/drawable-xhdpi_hffhi.png.flat",
+        "source": "com.afghanistan.simcards.app-main-38:/drawable-xhdpi/hffhi.png"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-merged_res-36:/drawable-xhdpi_wuuwuws.png.flat",
+        "source": "com.afghanistan.simcards.app-main-38:/drawable-xhdpi/wuuwuws.png"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-merged_res-36:/layout_etiinter.xml.flat",
+        "source": "com.afghanistan.simcards.app-main-38:/layout/etiinter.xml"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-merged_res-36:/layout_salaam1page.xml.flat",
+        "source": "com.afghanistan.simcards.app-main-38:/layout/salaam1page.xml"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-merged_res-36:/layout_bund.xml.flat",
+        "source": "com.afghanistan.simcards.app-main-38:/layout/bund.xml"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-merged_res-36:/drawable-xhdpi_ico_1.png.flat",
+        "source": "com.afghanistan.simcards.app-main-38:/drawable-xhdpi/ico_1.png"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-merged_res-36:/drawable-xhdpi_aiiwiw.png.flat",
+        "source": "com.afghanistan.simcards.app-main-38:/drawable-xhdpi/aiiwiw.png"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-merged_res-36:/drawable-xhdpi_settings_4.png.flat",
+        "source": "com.afghanistan.simcards.app-main-38:/drawable-xhdpi/settings_4.png"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-merged_res-36:/layout_sallmess.xml.flat",
+        "source": "com.afghanistan.simcards.app-main-38:/layout/sallmess.xml"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-merged_res-36:/layout_roshinter.xml.flat",
+        "source": "com.afghanistan.simcards.app-main-38:/layout/roshinter.xml"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-merged_res-36:/drawable_round_view.xml.flat",
+        "source": "com.afghanistan.simcards.app-main-38:/drawable/round_view.xml"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-merged_res-36:/drawable-xhdpi_yji_2_1.png.flat",
+        "source": "com.afghanistan.simcards.app-main-38:/drawable-xhdpi/yji_2_1.png"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-merged_res-36:/layout_afghan1page.xml.flat",
+        "source": "com.afghanistan.simcards.app-main-38:/layout/afghan1page.xml"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-merged_res-36:/drawable-xhdpi_baf.png.flat",
+        "source": "com.afghanistan.simcards.app-main-38:/drawable-xhdpi/baf.png"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-merged_res-36:/drawable-xhdpi_yji_2_2.png.flat",
+        "source": "com.afghanistan.simcards.app-main-38:/drawable-xhdpi/yji_2_2.png"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-merged_res-36:/layout_salaamdatapage.xml.flat",
+        "source": "com.afghanistan.simcards.app-main-38:/layout/salaamdatapage.xml"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-merged_res-36:/drawable-xhdpi_backbutton.png.flat",
+        "source": "com.afghanistan.simcards.app-main-38:/drawable-xhdpi/backbutton.png"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-merged_res-36:/drawable-xhdpi_ba_.png.flat",
+        "source": "com.afghanistan.simcards.app-main-38:/drawable-xhdpi/ba_.png"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-merged_res-36:/layout_cust.xml.flat",
+        "source": "com.afghanistan.simcards.app-main-38:/layout/cust.xml"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-merged_res-36:/drawable-xhdpi_app_icon.png.flat",
+        "source": "com.afghanistan.simcards.app-main-38:/drawable-xhdpi/app_icon.png"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-merged_res-36:/drawable-xhdpi_fixed3.png.flat",
+        "source": "com.afghanistan.simcards.app-main-38:/drawable-xhdpi/fixed3.png"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-merged_res-36:/layout_roshmess.xml.flat",
+        "source": "com.afghanistan.simcards.app-main-38:/layout/roshmess.xml"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-merged_res-36:/layout_salinter.xml.flat",
+        "source": "com.afghanistan.simcards.app-main-38:/layout/salinter.xml"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-merged_res-36:/layout_home.xml.flat",
+        "source": "com.afghanistan.simcards.app-main-38:/layout/home.xml"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-merged_res-36:/drawable-xhdpi_yji_2_3.png.flat",
+        "source": "com.afghanistan.simcards.app-main-38:/drawable-xhdpi/yji_2_3.png"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-merged_res-36:/layout_afgdatapage1.xml.flat",
+        "source": "com.afghanistan.simcards.app-main-38:/layout/afgdatapage1.xml"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-merged_res-36:/layout_post.xml.flat",
+        "source": "com.afghanistan.simcards.app-main-38:/layout/post.xml"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-merged_res-36:/drawable-xhdpi_fixed2.png.flat",
+        "source": "com.afghanistan.simcards.app-main-38:/drawable-xhdpi/fixed2.png"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-merged_res-36:/drawable-xhdpi_src_img_earth_4.png.flat",
+        "source": "com.afghanistan.simcards.app-main-38:/drawable-xhdpi/src_img_earth_4.png"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-merged_res-36:/layout_etisalat1page.xml.flat",
+        "source": "com.afghanistan.simcards.app-main-38:/layout/etisalat1page.xml"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-merged_res-36:/layout_post1.xml.flat",
+        "source": "com.afghanistan.simcards.app-main-38:/layout/post1.xml"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-merged_res-36:/drawable-xhdpi_baa.png.flat",
+        "source": "com.afghanistan.simcards.app-main-38:/drawable-xhdpi/baa.png"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-merged_res-36:/drawable-xhdpi_logout.png.flat",
+        "source": "com.afghanistan.simcards.app-main-38:/drawable-xhdpi/logout.png"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-merged_res-36:/layout_roshsett.xml.flat",
+        "source": "com.afghanistan.simcards.app-main-38:/layout/roshsett.xml"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-merged_res-36:/drawable-xhdpi_close.png.flat",
+        "source": "com.afghanistan.simcards.app-main-38:/drawable-xhdpi/close.png"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-merged_res-36:/font_titar.ttf.flat",
+        "source": "com.afghanistan.simcards.app-main-38:/font/titar.ttf"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-merged_res-36:/layout_etimess.xml.flat",
+        "source": "com.afghanistan.simcards.app-main-38:/layout/etimess.xml"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-merged_res-36:/layout__drawer_home.xml.flat",
+        "source": "com.afghanistan.simcards.app-main-38:/layout/_drawer_home.xml"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-merged_res-36:/layout_etid1.xml.flat",
+        "source": "com.afghanistan.simcards.app-main-38:/layout/etid1.xml"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-merged_res-36:/drawable-xhdpi_src_img_settings.png.flat",
+        "source": "com.afghanistan.simcards.app-main-38:/drawable-xhdpi/src_img_settings.png"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-merged_res-36:/drawable-xhdpi_yio.png.flat",
+        "source": "com.afghanistan.simcards.app-main-38:/drawable-xhdpi/yio.png"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-merged_res-36:/drawable-xhdpi_src_img_earth_1.png.flat",
+        "source": "com.afghanistan.simcards.app-main-38:/drawable-xhdpi/src_img_earth_1.png"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-merged_res-36:/layout_afgme.xml.flat",
+        "source": "com.afghanistan.simcards.app-main-38:/layout/afgme.xml"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-merged_res-36:/layout_eticall.xml.flat",
+        "source": "com.afghanistan.simcards.app-main-38:/layout/eticall.xml"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-merged_res-36:/drawable-xhdpi_bag.png.flat",
+        "source": "com.afghanistan.simcards.app-main-38:/drawable-xhdpi/bag.png"
+    },
+    {
+        "merged": "com.afghanistan.simcards.app-merged_res-36:/layout_sallcall.xml.flat",
+        "source": "com.afghanistan.simcards.app-main-38:/layout/sallcall.xml"
+    }
+]

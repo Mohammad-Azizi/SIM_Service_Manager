@@ -1,0 +1,23 @@
+[
+   {
+     "title": "1 GB nightly",
+     "price": "25 Afghanis",
+     "info": "1 GB Internet for 1 night at the price of 25 Afghanis. It can be used from 11:00 PM to 7:00 AM. Press the green button to activate and the red button to deactivate. To activate *477*25*1#.",
+     "buttonA": "*477*25*1#",
+     "buttonD": "*477*25*2#"
+   },
+   {
+     "title": "3 GB nightly",
+     "price": "75 Afghani",
+     "info": "3 GB Internet for 7 nights at the price of 75 Afghanis. It can be used from 11 pm to 7 am. Press the green button to activate and the red button to deactivate. To activate Dial *477*75*2#.",
+     "buttonA": "*477*75*1#",
+     "buttonD": "*477*75*2#"
+   },
+   {
+     "title": "7GB nightly",
+     "price": "199 Afghani",
+     "info": "7 GB Internet for 30 nights at the price of 199 Afghanis. It can be used from 11 pm to 7 am. Press the green button to activate and the red button to deactivate. To activate Dial *477*199*1#.",
+     "buttonA": "*477*199*1#",
+     "buttonD": "*477*199*2#"
+   }
+ ]

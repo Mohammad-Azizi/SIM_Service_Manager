@@ -1,0 +1,23 @@
+[
+   {
+     "title": "50 MB daily",
+     "price": "5 Afghanis",
+     "info": "50 MB of Internet for 1 day at the price of 5 Afghani. Only for social networks. Press the green button to activate and the red button to deactivate. Dial *344*511# to activate.  ",
+     "buttonA": "*344*511#",
+     "buttonD": "D"
+   },
+   {
+     "title": "170 MB weekly",
+     "price": "18 Afghani",
+     "info": "170 MB of Internet for 7 days at the price of 18 Afghanis. Only for social networks. Press the green button to activate and the red button to deactivate. Dial *344*512# to activate.  ",
+     "buttonA": "*344*512#",
+     "buttonD": "D"
+   },
+   {
+     "title": "475 MB per month",
+     "price": "50 Afghani",
+     "info": "475 MB Internet for 30 days at the price of 50 Afghanis. Only for social networks. Press the green button to activate and the red button to deactivate. Dial *344*513# to activate.  ",
+     "buttonA": "*344*513#",
+     "buttonD": "D"
+   }
+ ]

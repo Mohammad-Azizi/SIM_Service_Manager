@@ -1,0 +1,58 @@
+[
+   {
+     "title": "70 MB daily",
+     "price": "5 Afghani",
+     "info": "70 MB of Internet for 1 day at the price of 5 Afghanis. Only for Facebook network. To activate, press the green button and to deactivate, press the red button. To activate, dial *232*5*1#  .",
+     "buttonA": "*232*5*1#",
+     "buttonD": "*232*5*2#"
+   },
+   {
+     "title": "75 MB daily",
+     "price": "5 Afghanis",
+     "info": "75 MB of Internet for 1 day at the price of 5 Afghani. Only for VIBER network. To activate, press the green button and to deactivate, press the red button. To activate, dial *232*75*1#  Do it.",
+     "buttonA": "*232*75*1#",
+     "buttonD": "*232*75*2#"
+   },
+   {
+     "title": "150 MB daily",
+     "price": "10 Afghani",
+     "info": "150 MB of Internet for 1 day at the price of 10 Afghanis. Only for Facebook network. Press the green button to activate and the red button to deactivate. Dial *232*10*1# to activate.  .",
+     "buttonA": "*232*10*1#",
+     "buttonD": "*232*10*2#"
+   },
+   {
+     "title": "250 MB weekly",
+     "price": "20 Afghanis",
+     "info": "250 MB Internet for 7 days at the price of 20 Afghani. Only for Facebook network. Press the green button to activate and the red button to deactivate. Dial *232*20*1# to activate.  .",
+     "buttonA": "*232*20*1#",
+     "buttonD": "*232*20*2#"
+   },
+   {
+     "title": "175 MB weekly",
+     "price": "10 Afghanis",
+     "info": "175 MB Internet for 7 days at the price of 10 Afghanis. Only for VIBER network. To activate, press the green button and to deactivate, press the red button. To activate, dial *232*175*1#  Do it.",
+     "buttonA": "*232*175*1#",
+     "buttonD": "*232*175*2#"
+   },
+   {
+     "title": "1.2 GB monthly",
+     "price": "80 Afghani",
+     "info": "1.2 GB of Internet for 30 days at the price of 80 Afghanis. Only for Facebook network. To activate, press the green button and to deactivate, press the red button. To activate, dial *232*80*1#  dial.",
+     "buttonA": "*232*80*1#",
+     "buttonD": "*232*80*2#"
+   },
+   {
+     "title": "1 GB per month",
+     "price": "45 Afghanis",
+     "info": "1 GB Internet for 30 days at the price of 45 Afghanis. Only for VIBER network. To activate, press the green button and to deactivate, press the red button. To activate, dial *232*46*1#  Do it.",
+     "buttonA": "*232*46*1#",
+     "buttonD": "*232*46*2#"
+   },
+   {
+     "title": "2.5 GB monthly",
+     "price": "150 Afghani",
+     "info": "2.5 GB of Internet for 30 days at the price of 150 Afghanis. Only for Facebook network. Press the green button to activate and the red button to deactivate. To activate, dial *232*150*1#  dial.",
+     "buttonA": "*232*150*1#",
+     "buttonD": "*232*150*2#"
+   }
+ ]

@@ -1,0 +1,15 @@
+ [{
+     "title": "500 MB weekly",
+     "price": "50 Afghanis",
+     "info": "500 MB of Internet for 7 days at the price of 50 Afghani. Send 300 to activate and PU300 to 3378 to deactivate",
+     "buttonA": "300",
+     "buttonD": "PU300"
+   },
+   {
+     "title": "1.5 GB weekly",
+     "price": "149 Afghanis",
+     "info": "1.5 GB Internet for 7 days at the price of 149 Afghani. Send 149 to activate and PU149 to 3378",
+     "buttonA": "149",
+     "buttonD": "PU149"
+   }
+ ]

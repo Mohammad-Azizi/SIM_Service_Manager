@@ -1,0 +1,19 @@
+[{
+"buttonD": "15D",
+"price": "15 Afghani ",
+"title": " unlimited nightly calls ",
+"buttonA": "15",
+"info": "Unlimited calls to Roshan for 1 night at the price of 15 Afghanis. Press the green button to activate and the red button to deactivate.  It can be used from 10 pm to 6 am. For activation send 15d to 555 and for deactivation send 15d"
+}, {
+"buttonD": "DW45",
+"price": "45 Afghani ",
+"title": "unlimited nightly calls ",
+"buttonA": "W45",
+"info": "Unlimited calls to Roshan for 7 nights at the price of 15 Afghanis. Press the green button to activate and the red button to deactivate.  It can be used from 10 pm to 6 am. For activation send w45 to 555 and for deactivation send dw45"
+}, {
+"buttonD": "DN135",
+"price": "135 Afghani ",
+"title": "unlimited nightly calls ",
+"buttonA": "N135",
+"info": "Unlimited calls to Roshan for 30 nights at the price of 15 Afghanis. Press the green button to activate and the red button to deactivate.  It can be used from 10 pm to 6 am. For activation, send N135 to 555 to activate and for deactivation send DN135"
+}]

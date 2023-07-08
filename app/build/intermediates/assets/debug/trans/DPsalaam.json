@@ -1,0 +1,16 @@
+[
+   {
+     "title": "100 MB daily",
+     "price": "10 Afghani",
+     "info": "100 MB of internet for 1 day for 10 Afghanis. To activate A 100MB and to deactivate D 100MB to 740.",
+     "buttonA": "A 100MB",
+     "buttonD": "D 100MB"
+   },
+   {
+     "title": "1 GB daily",
+     "price": "49 Afghani",
+     "info": "1 GB Internet for 1 day at the price of 49 Afghani. Send A 49 to activate and D 49 to deactivate to 740.",
+     "buttonA": "A 49",
+     "buttonD": "D 49"
+   }
+ ]

@@ -1,0 +1,58 @@
+[
+   {
+     "title": "1 GB per month",
+     "price": "92 Afghani",
+     "info": "1GB of internet for 30 days at the price of 92 Afghanis. Send A 1GB to 740 to activate and D 1GB to deactivate .",
+     "buttonA": "A 1GB",
+     "buttonD": "D 1GB"
+   },
+   {
+     "title": "2GB per month",
+     "price": "140 Afghanis",
+     "info": "2 GB Internet for 30 days at the price of 140 Afghanis. Send A 2GB to 740 to activate and D 2GB to deactivate .",
+     "buttonA": "A 2GB",
+     "buttonD": "D 2GB"
+   },
+   {
+     "title": "3GB per month",
+     "price": "184 Afghani",
+     "info": "3 GB Internet for 30 days at the price of 184 Afghanis. Send A 3GB to 740 to activate and D 3GB to deactivate .",
+     "buttonA": "A 3GB",
+     "buttonD": "D 3GB"
+   },
+   {
+     "title": "4GB monthly",
+     "price": "230 Afghani",
+     "info": "4 GB Internet for 30 days at the price of 230 Afghanis. To activate A 4GB and to deactivate D 4GB to 740.",
+     "buttonA": "A 4GB",
+     "buttonD": "D 4GB"
+   },
+   {
+     "title": "5 GB per month",
+     "price": "276 Afghani",
+     "info": "5 GB Internet for 30 days at the price of 276 Afghanis. Send A 5GB to 740 to activate and A 5GB to deactivate .",
+     "buttonA": "A 5GB",
+     "buttonD": "D 5GB"
+   },
+   {
+     "title": "10GB per month",
+     "price": "415 Afghani",
+     "info": "10 GB Internet for 30 days at the price of 415 Afghanis. To activate A 10GB and to deactivate D 10GB to 740.",
+     "buttonA": "A 10GB",
+     "buttonD": "D 10GB"
+   },
+   {
+     "title": "30 GB per month",
+     "price": "1200 Afghani",
+     "info": "30 GB Internet for 30 days at the price of 1,200 Afghanis. To activate A, send 30 GB and to deactivate D, send 30 GB to 740.",
+     "buttonA": "A 30GB",
+     "buttonD": "D 30GB"
+   },
+   {
+     "title": "50 GB per month",
+     "price": "1499 Afghani",
+     "info": "50 GB of Internet for 60 days at the price of 1499 Afghanis. To activate A, send 50 GB and to deactivate D, send 50 GB to 740.",
+     "buttonA": "A 50GB",
+     "buttonD": "D 50GB"
+   }
+ ]

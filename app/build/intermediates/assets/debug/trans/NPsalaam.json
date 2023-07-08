@@ -1,0 +1,30 @@
+[
+   {
+     "title": "1.5 GB at night",
+     "price": "50 Afghani",
+     "info": "1.5 GB of Internet for 7 nights at the price of 50 Afghanis. It can be used only from 11 pm to 7 am. To activate A SML and to deactivate D SML, send it to 740.",
+     "buttonA": "A SML",
+     "buttonD": "D SML"
+   },
+   {
+     "title": "3 GB nightly",
+     "price": "90 Afghani",
+     "info": "3 GB Internet for 30 nights at the price of 90 Afghanis. It can be used only from 11 pm to 7 am. To activate A MDM and to deactivate D MDM, send it to 740.",
+     "buttonA": "A MDM",
+     "buttonD": "D MDM"
+   },
+   {
+     "title": "7GB nightly",
+     "price": "200 Afghani",
+     "info": "7 GB of Internet for 30 nights at the price of 200 Afghanis. It can be used only from 11 pm to 7 am. To activate A LRG and to deactivate D LRG, send it to 740.",
+     "buttonA": "A LRG",
+     "buttonD": "D LRG"
+   },
+   {
+     "title": "13 GB night mix",
+     "price": "350 Afghani",
+     "info": "13 GB of Internet for 30 nights at the price of 350 Afghanis. It includes 200 minutes of calls. It can be used only from 11:00 PM to 7:00 AM. To activate A XTR and to deactivate D XTR, send it to 740  .",
+     "buttonA": "A XTR",
+     "buttonD": "D XTR"
+   }
+ ]

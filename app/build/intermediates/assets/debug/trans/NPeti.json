@@ -1,0 +1,17 @@
+[
+   {
+     "title": "3 GB nightly",
+     "price": "99 Afghani",
+     "info": "3 GB Internet for 30 nights at the price of 99 Afghanis. To activate NBS and to deactivate send PUNBS to 3378",
+     "buttonA": "NBS",
+     "buttonD": "PUNBS"
+   }
+   ,
+   {
+     "title": "1 GB nightly",
+     "price": "25 Afghanis",
+     "info": "1 GB Internet for 1 night for 25 Afghanis. To activate NBD and to deactivate PUNBD send to 3378",
+     "buttonA": "NBD",
+     "buttonD": "PUNBD"
+   }
+ ]

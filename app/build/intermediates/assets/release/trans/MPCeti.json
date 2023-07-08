@@ -1,0 +1,16 @@
+[
+   {
+     "title": "1000 minutes per month",
+     "price": "200 Afghanis",
+     "info": "1000 minutes of calls for 30 days at the price of 200 Afghanis. To activate M200 and to deactivate PUM200 send to 3378.",
+     "buttonA": "M200",
+     "buttonD": "PUM200"
+   },
+   {
+     "title": "1500 minutes per month",
+     "price": "220 Afghanis",
+     "info": "1500 call minutes for 30 days at the price of 220 Afghanis. To activate M220 and to deactivate PUM220, send to 3378.",
+     "buttonA": "M220",
+     "buttonD": "PUM220"
+   }
+ ]

@@ -1,0 +1,19 @@
+[{
+	"buttonD": "PU 35",
+	"price": "35 Afghanis",
+	"title": "10 minutes of daily calls ",
+	"buttonA": "35",
+	"info": "10 minutes of calls to Pakistan,  Canada, India, and USA for one day at the price of 35 Afghani. \r\nPress the green button to activate and the red button to deactivate. 35 to activate and 35 to deactivate PU to 3378,"
+}, {
+	"buttonD": "PU W25",
+	"price": "75 Afghani",
+	"title": "25 minutes weekly ",
+	"buttonA": "W25",
+	"info": "25 minutes calls to China  , Canada, India, and America for one week at the price of 75 Afghanis. \r\nPress the green button to activate and the red button to deactivate. Send W25 to activate and PU W25 to 3378 to deactivate.  "
+}, {
+	"buttonD": "PU 50",
+	"price": "150 Afghani",
+	"title": "50 minutes monthly ",
+	"buttonA": "50",
+	"info": "50 call minutes  to China, Canada, India, and America for one month for 150 Afghanis. \r\nPress the green button to activate and the red button to deactivate. 50 to activate and 50 to deactivate PU to 3378  send,"
+}]

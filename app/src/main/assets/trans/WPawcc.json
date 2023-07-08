@@ -1,0 +1,30 @@
+[
+{
+     "title": "512 MB weekly",
+     "price": "55 Afghani",
+     "info": "1 GB Internet for 7 days at the price of 55 Afghanis. To activate, press the green button and to deactivate, press the red button. To activate, dial *477*55*1#.",
+     "buttonA": "*477*55*1#",
+     "buttonD": "*477*55*2#"
+   },
+   {
+     "title": "1 GB weekly",
+     "price": "110 Afghani",
+     "info": "1 GB Internet for 7 days at the price of 110 Afghanis. To activate, press the green button and to deactivate, press the red button. To activate, dial *477*3*1#.",
+     "buttonA": "*477*3*1#",
+     "buttonD": "*477*3*2#"
+   },
+   {
+     "title": "1.5 GB weekly",
+     "price": "140 Afghanis",
+     "info": "1.5 GB Internet for 7 days at the price of 140 Afghani. Press the green button to activate and the red button to deactivate. Dial *477*140*1# to activate.",
+     "buttonA": "*477*140*1#",
+     "buttonD": "*477*140*2#"
+   },
+   {
+     "title": "2.5 GB weekly",
+     "price": "210 Afghani",
+     "info": "1.5 GB of Internet for 7 days at the price of 210 Afghanis. Press the green button to activate and the red button to deactivate. Dial *477*210*1# to activate.",
+     "buttonA": "*477*210*1#",
+     "buttonD": "*477*210*2#"
+   }
+ ]

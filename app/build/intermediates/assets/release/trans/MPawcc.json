@@ -1,0 +1,99 @@
+[
+   {
+     "title": "1 GB per month",
+     "price": "110 Afghani",
+     "info": "1 GB Internet for 30 days at the price of 110 Afghanis. Press the green button to activate and the red button to deactivate. Dial *477*110*1# to activate.",
+     "buttonA": "*477*110*1#",
+     "buttonD": "*477*110*2#"
+   },
+   {
+     "title": "2GB per month",
+     "price": "220 Afghani",
+     "info": "2 GB Internet for 30 days at the price of 220 Afghanis. To activate, press the green button and to deactivate, press the red button. To activate, dial *477*220*1#.",
+     "buttonA": "*477*220*1#",
+     "buttonD": "*477*220*2#"
+   },
+   {
+     "title": "2.5 GB monthly",
+     "price": "250 Afghani",
+     "info": "2.5 GB of Internet for 30 days at the price of 250 Afghanis. To activate, press the green button and to deactivate, press the red button. To activate, dial *477*4*1#.",
+     "buttonA": "*477*4*1#",
+     "buttonD": "*477*4*2#"
+   },
+   {
+     "title": "3GB per month",
+     "price": "300 Afghani",
+     "info": "3 GB Internet for 30 days at the price of 300 Afghanis. Press the green button to activate and the red button to deactivate. Dial *477*300*1# to activate.",
+     "buttonA": "*477*300*1#",
+     "buttonD": "*477*300*2#"
+   },{
+     "title": "4GB monthly",
+     "price": "390 Afghani",
+     "info": "4 GB Internet for 30 days at the price of 390 Afghanis. Press the green button to activate and the red button to deactivate. Dial *477*390*1# to activate.",
+     "buttonA": "*477*390*1#",
+     "buttonD": "*477*390*2#"
+   },
+   {
+     "title": "5 GB per month",
+     "price": "400 Afghani",
+     "info": "5 GB Internet for 30 days at the price of 400 Afghani. Press the green button to activate and the red button to deactivate. Dial *477*5*1# to activate.",
+     "buttonA": "*477*5*1#",
+     "buttonD": "*477*5*2#"
+   },
+   {
+     "title": "10GB per month",
+     "price": "600 Afghani",
+     "info": "10 GB Internet for 30 days at the price of 600 Afghanis. Press the green button to activate and the red button to deactivate. Dial *477*6*1# to activate.",
+     "buttonA": "*477*6*1#",
+     "buttonD": "*477*6*2#"
+   },
+   {
+     "title": "13.5 GB per month",
+     "price": "800 Afghani",
+     "info": "13.5 GB of Internet for 30 days at the price of 800 Afghanis. Press the green button to activate and the red button to deactivate. Dial *477*8*1# to activate.",
+     "buttonA": "*477*8*1#",
+     "buttonD": "*477*8*2#"
+   },
+   {
+     "title": "20 GB per month",
+     "price": "999 Afghani",
+     "info": "20 GB Internet for 30 days at the price of 999 Afghanis. Press the green button to activate and the red button to deactivate. Dial *477*999*1# to activate.",
+     "buttonA": "*477*999*1#",
+     "buttonD": "*477*999*2#"
+   },
+   {
+     "title": "24GB monthly",
+     "price": "1100 Afghani",
+     "info": "24 GB Internet for 30 days at the price of 1100 Afghanis. Press the green button to activate and the red button to deactivate. Dial *477*10*1# to activate.",
+     "buttonA": "*477*10*1#",
+     "buttonD": "*477*10*2#"
+   },
+   {
+     "title": "40 GB monthly",
+     "price": "1800 Afghani",
+     "info": "40 GB Internet for 30 days at the price of 1800 Afghanis. Press the green button to activate and the red button to deactivate. Dial *477*16*1# to activate.",
+     "buttonA": "*477*16*1#",
+     "buttonD": "*477*16*2#"
+   },
+   {
+     "title": "60 GB monthly",
+     "price": "2700 Afghanis",
+     "info": "60 GB of Internet for 30 days at the price of 2700 Afghanis. To activate, press the green button and to deactivate, press the red button. To activate, dial *477*27*1#.",
+     "buttonA": "*477*27*1#",
+     "buttonD": "*477*27*2#"
+   },
+   {
+     "title": "22 GB for two months",
+     "price": "2000 Afghanis",
+     "info": "22 GB Internet for 60 days at the price of 2000 Afghanis. Press the green button to activate and the red button to deactivate. Dial *477*2000*1# to activate.",
+     "buttonA": "*477*2000*1#",
+     "buttonD": "*477*2000*2#"
+   },
+   {
+     "title": "32 GB for two months",
+     "price": "2699 Afghanis",
+     "info": "32 GB Internet for 60 days at the price of 2699 Afghanis. Press the green button to activate and the red button to deactivate. Dial *477*2699*1# to activate.",
+     "buttonA": "*477*2699*1#",
+     "buttonD": "*477*2699*2#"
+   }
+ ]

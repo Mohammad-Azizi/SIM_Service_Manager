@@ -1,0 +1,23 @@
+[
+   {
+      "title":"512 MB hourly",
+      "price":"12 Afghani",
+      "info":"512 MB Internet for 1 hour for 12 Afghanis. To activate H400 and to deactivate PU H400 to 3378",
+      "buttonA":"H400",
+      "buttonD":"PU H400"
+   },
+   {
+      "title":"650 MB per hour",
+      "price":"15 Afghani",
+      "info":"650 MB of Internet for 1 hour at the price of 15 Afghanis. To activate 650MB and to deactivate PU 650MB to 3378",
+      "buttonA":"650MB",
+      "buttonD":"PU 650MB"
+   },
+   {
+      "title":"1024 MB hourly",
+      "price":"20 Afghani",
+      "info":"1 GB Internet for 1 hour at the price of 20 Afghanis. To activate 1GB and to deactivate PU 1GB to 3378",
+      "buttonA":"1GB",
+      "buttonD":"PU 1GB"
+   }
+]
