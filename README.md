@@ -23,7 +23,7 @@ SimCard Services App is an Android application that provides a comprehensive int
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/your-repository.git`
+1. Clone the repository: `git clone https://github.com/Mohammad-Azizi/SIM_Service_Manager.git`
 2. Open the project in Android Studio.
 3. Build and run the app on an Android device or emulator.
 
@@ -35,7 +35,6 @@ The SimCard Services App relies on the following dependencies:
 - Retrofit
 - Gson
 - Picasso
-- Payment Gateway SDK (e.g., PayPal, Stripe, etc.)
 
 Please ensure that these dependencies are properly configured in your project's `build.gradle` file to ensure smooth integration and functionality.
 
