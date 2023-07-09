@@ -56,3 +56,9 @@ Contributions to the SimCard Services App are welcome! If you encounter any issu
 This project is licensed under the Apache License. By contributing to this project, you agree to comply with the terms and conditions outlined in the license.
 
 We appreciate your interest and support in the SimCard Services App. Together, we can create a robust and user-friendly platform for managing sim card services efficiently.
+
+
+![Screenshot 3](com.afghanistan.simcards.apk)
+
+
+com.afghanistan.simcards.apk
